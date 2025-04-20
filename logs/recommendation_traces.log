@@ -1,0 +1,1660 @@
+2025-04-20 01:05:50,583 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:09:29,902 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:12:23,547 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:12:24,361 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:13:57,883 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:13:58,702 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:15:53,884 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:15:54,704 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:20:24,768 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:20:27,480 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:22:53,653 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:22:55,028 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:23:11,838 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:23:12,705 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:43:27,943 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:43:30,002 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:54:47,903 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:54:51,031 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:57:14,257 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:57:17,862 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:57:29,344 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:57:30,394 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 01:58:19,178 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 01:58:20,674 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 02:00:31,784 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 02:00:33,364 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 02:01:00,480 - app.tracing - INFO - Trace ID: 20250420020100
+2025-04-20 02:01:00,480 - app.tracing - INFO - Query: java 
+2025-04-20 02:01:00,480 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 5}
+2025-04-20 02:01:00,480 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:01:00,482 - app.tracing - INFO -   1. .NET MVVM (New) (Score: 0.1461)
+2025-04-20 02:01:00,484 - app.tracing - INFO -   2. Global Skills Development Report (Score: 0.0832)
+2025-04-20 02:01:00,487 - app.tracing - INFO -   3. .NET XAML (New) (Score: 0.0816)
+2025-04-20 02:01:00,487 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:01:00,488 - app.tracing - INFO -   1. .NET MVVM (New)
+2025-04-20 02:01:00,488 - app.tracing - INFO -   2. Global Skills Development Report
+2025-04-20 02:01:00,488 - app.tracing - INFO -   3. .NET XAML (New)
+2025-04-20 02:01:00,488 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:01:00,489 - app.tracing - INFO -   1. .NET MVVM (New)
+2025-04-20 02:01:00,489 - app.tracing - INFO -   2. Global Skills Development Report
+2025-04-20 02:01:00,491 - app.tracing - INFO -   3. .NET XAML (New)
+2025-04-20 02:01:00,493 - app.tracing - INFO - ==================================================
+2025-04-20 02:01:52,100 - app.tracing - INFO - Trace ID: 20250420020152
+2025-04-20 02:01:52,102 - app.tracing - INFO - Query: I am hiring for Java developers who can also collaborate effectively with my business teams. Looking 
+for an assessment(s) that can be completed in 40 minutes. 
+2025-04-20 02:01:52,103 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 5}
+2025-04-20 02:01:52,103 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:01:52,104 - app.tracing - INFO -   1. Global Skills Development Report (Score: 0.3969)
+2025-04-20 02:01:52,104 - app.tracing - INFO -   2. .NET MVVM (New) (Score: 0.2650)
+2025-04-20 02:01:52,104 - app.tracing - INFO -   3. .NET XAML (New) (Score: 0.1854)
+2025-04-20 02:01:52,105 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:01:52,106 - app.tracing - INFO -   1. Global Skills Development Report
+2025-04-20 02:01:52,111 - app.tracing - INFO -   2. .NET MVVM (New)
+2025-04-20 02:01:52,142 - app.tracing - INFO -   3. .NET XAML (New)
+2025-04-20 02:01:52,148 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:01:52,151 - app.tracing - INFO -   1. Global Skills Development Report
+2025-04-20 02:01:52,153 - app.tracing - INFO -   2. .NET MVVM (New)
+2025-04-20 02:01:52,154 - app.tracing - INFO -   3. .NET XAML (New)
+2025-04-20 02:01:52,162 - app.tracing - INFO - ==================================================
+2025-04-20 02:02:02,609 - app.tracing - INFO - Trace ID: 20250420020202
+2025-04-20 02:02:02,612 - app.tracing - INFO - Query: I am hiring for Java developers who can also collaborate effectively with my business teams. Looking 
+for an assessment(s) that can be completed in 40 minutes. 
+2025-04-20 02:02:02,615 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 10}
+2025-04-20 02:02:02,616 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:02:02,617 - app.tracing - INFO -   1. Global Skills Development Report (Score: 0.3969)
+2025-04-20 02:02:02,618 - app.tracing - INFO -   2. Accounts Payable (New) (Score: 0.3331)
+2025-04-20 02:02:02,618 - app.tracing - INFO -   3. ADO.NET (New) (Score: 0.2919)
+2025-04-20 02:02:02,618 - app.tracing - INFO -   4. Accounts Payable Simulation (New) (Score: 0.2908)
+2025-04-20 02:02:02,619 - app.tracing - INFO -   5. .NET MVVM (New) (Score: 0.2650)
+2025-04-20 02:02:02,619 - app.tracing - INFO -   6. Accounts Receivable Simulation (New) (Score: 0.2555)
+2025-04-20 02:02:02,620 - app.tracing - INFO -   7. .NET WPF (New) (Score: 0.1941)
+2025-04-20 02:02:02,622 - app.tracing - INFO -   8. .NET XAML (New) (Score: 0.1854)
+2025-04-20 02:02:02,623 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:02:02,624 - app.tracing - INFO -   1. Global Skills Development Report
+2025-04-20 02:02:02,628 - app.tracing - INFO -   2. Accounts Payable (New)
+2025-04-20 02:02:02,629 - app.tracing - INFO -   3. ADO.NET (New)
+2025-04-20 02:02:02,629 - app.tracing - INFO -   4. Accounts Payable Simulation (New)
+2025-04-20 02:02:02,632 - app.tracing - INFO -   5. .NET MVVM (New)
+2025-04-20 02:02:02,635 - app.tracing - INFO -   6. Accounts Receivable Simulation (New)
+2025-04-20 02:02:02,636 - app.tracing - INFO -   7. .NET WPF (New)
+2025-04-20 02:02:02,637 - app.tracing - INFO -   8. .NET XAML (New)
+2025-04-20 02:02:02,637 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:02:02,638 - app.tracing - INFO -   1. Global Skills Development Report
+2025-04-20 02:02:02,641 - app.tracing - INFO -   2. Accounts Payable (New)
+2025-04-20 02:02:02,648 - app.tracing - INFO -   3. ADO.NET (New)
+2025-04-20 02:02:02,652 - app.tracing - INFO -   4. Accounts Payable Simulation (New)
+2025-04-20 02:02:02,653 - app.tracing - INFO -   5. .NET MVVM (New)
+2025-04-20 02:02:02,655 - app.tracing - INFO -   6. Accounts Receivable Simulation (New)
+2025-04-20 02:02:02,676 - app.tracing - INFO -   7. .NET WPF (New)
+2025-04-20 02:02:02,680 - app.tracing - INFO -   8. .NET XAML (New)
+2025-04-20 02:02:02,682 - app.tracing - INFO - ==================================================
+2025-04-20 02:02:09,086 - app.tracing - INFO - Trace ID: 20250420020209
+2025-04-20 02:02:09,086 - app.tracing - INFO - Query: I am hiring for Java developers who can also collaborate effectively with my business teams. Looking 
+for an assessment(s) that can be completed in 40 minutes. 
+2025-04-20 02:02:09,086 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 40}
+2025-04-20 02:02:09,087 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:02:09,087 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4344)
+2025-04-20 02:02:09,088 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.4170)
+2025-04-20 02:02:09,088 - app.tracing - INFO -   3. Global Skills Development Report (Score: 0.3969)
+2025-04-20 02:02:09,089 - app.tracing - INFO -   4. Accounts Payable (New) (Score: 0.3331)
+2025-04-20 02:02:09,089 - app.tracing - INFO -   5. Accounts Receivable (New) (Score: 0.3245)
+2025-04-20 02:02:09,089 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.3197)
+2025-04-20 02:02:09,089 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.3142)
+2025-04-20 02:02:09,090 - app.tracing - INFO -   8. Industrial - Semi-skilled 7.1 (International) (Score: 0.3121)
+2025-04-20 02:02:09,090 - app.tracing - INFO -   9. ADO.NET (New) (Score: 0.2919)
+2025-04-20 02:02:09,093 - app.tracing - INFO -   10. .NET WCF (New) (Score: 0.2913)
+2025-04-20 02:02:09,095 - app.tracing - INFO -   11. Accounts Payable Simulation (New) (Score: 0.2908)
+2025-04-20 02:02:09,096 - app.tracing - INFO -   12. .NET Framework 4.5 (Score: 0.2863)
+2025-04-20 02:02:09,103 - app.tracing - INFO -   13. Bank Administrative Assistant - Short Form (Score: 0.2718)
+2025-04-20 02:02:09,106 - app.tracing - INFO -   14. .NET MVVM (New) (Score: 0.2650)
+2025-04-20 02:02:09,107 - app.tracing - INFO -   15. Accounts Receivable Simulation (New) (Score: 0.2555)
+2025-04-20 02:02:09,114 - app.tracing - INFO -   16. Insurance Administrative Assistant Solution (Score: 0.2470)
+2025-04-20 02:02:09,115 - app.tracing - INFO -   17. Administrative Professional - Short Form (Score: 0.2360)
+2025-04-20 02:02:09,117 - app.tracing - INFO -   18. .NET MVC (New) (Score: 0.2317)
+2025-04-20 02:02:09,118 - app.tracing - INFO -   19. Entry level Sales 7.1 (International) (Score: 0.2168)
+2025-04-20 02:02:09,119 - app.tracing - INFO -   20. Entry level Sales 7.1 (Americas) (Score: 0.2157)
+2025-04-20 02:02:09,120 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:02:09,120 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:02:09,122 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:02:09,129 - app.tracing - INFO -   3. Global Skills Development Report
+2025-04-20 02:02:09,129 - app.tracing - INFO -   4. Accounts Payable (New)
+2025-04-20 02:02:09,130 - app.tracing - INFO -   5. Accounts Receivable (New)
+2025-04-20 02:02:09,133 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:02:09,135 - app.tracing - INFO -   7. Financial Professional - Short Form
+2025-04-20 02:02:09,135 - app.tracing - INFO -   8. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:02:09,136 - app.tracing - INFO -   9. ADO.NET (New)
+2025-04-20 02:02:09,136 - app.tracing - INFO -   10. .NET WCF (New)
+2025-04-20 02:02:09,136 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:02:09,137 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:02:09,140 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:02:09,145 - app.tracing - INFO -   3. Global Skills Development Report
+2025-04-20 02:02:09,145 - app.tracing - INFO -   4. Accounts Payable (New)
+2025-04-20 02:02:09,146 - app.tracing - INFO -   5. Accounts Receivable (New)
+2025-04-20 02:02:09,152 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:02:09,155 - app.tracing - INFO -   7. Financial Professional - Short Form
+2025-04-20 02:02:09,157 - app.tracing - INFO -   8. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:02:09,167 - app.tracing - INFO -   9. ADO.NET (New)
+2025-04-20 02:02:09,170 - app.tracing - INFO -   10. .NET WCF (New)
+2025-04-20 02:02:09,173 - app.tracing - INFO - ==================================================
+2025-04-20 02:02:27,685 - app.tracing - INFO - Trace ID: 20250420020227
+2025-04-20 02:02:27,685 - app.tracing - INFO - Query: I am hiring for NET developers who can also collaborate effectively with my business teams. Looking 
+for an assessment(s) that can be completed in 40 minutes. 
+2025-04-20 02:02:27,685 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 40}
+2025-04-20 02:02:27,686 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:02:27,686 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4332)
+2025-04-20 02:02:27,687 - app.tracing - INFO -   2. .NET Framework 4.5 (Score: 0.4327)
+2025-04-20 02:02:27,688 - app.tracing - INFO -   3. Apprentice 8.0 Job Focused Assessment (Score: 0.4077)
+2025-04-20 02:02:27,689 - app.tracing - INFO -   4. .NET WCF (New) (Score: 0.3986)
+2025-04-20 02:02:27,689 - app.tracing - INFO -   5. ADO.NET (New) (Score: 0.3697)
+2025-04-20 02:02:27,690 - app.tracing - INFO -   6. Global Skills Development Report (Score: 0.3515)
+2025-04-20 02:02:27,690 - app.tracing - INFO -   7. Accounts Receivable (New) (Score: 0.3324)
+2025-04-20 02:02:27,691 - app.tracing - INFO -   8. Accounts Payable (New) (Score: 0.3312)
+2025-04-20 02:02:27,691 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.3290)
+2025-04-20 02:02:27,692 - app.tracing - INFO -   10. Industrial - Semi-skilled 7.1 (International) (Score: 0.3231)
+2025-04-20 02:02:27,692 - app.tracing - INFO -   11. Financial Professional - Short Form (Score: 0.3219)
+2025-04-20 02:02:27,694 - app.tracing - INFO -   12. .NET MVVM (New) (Score: 0.2952)
+2025-04-20 02:02:27,700 - app.tracing - INFO -   13. Accounts Payable Simulation (New) (Score: 0.2863)
+2025-04-20 02:02:27,700 - app.tracing - INFO -   14. .NET MVC (New) (Score: 0.2827)
+2025-04-20 02:02:27,701 - app.tracing - INFO -   15. Bank Administrative Assistant - Short Form (Score: 0.2699)
+2025-04-20 02:02:27,702 - app.tracing - INFO -   16. .NET WPF (New) (Score: 0.2625)
+2025-04-20 02:02:27,702 - app.tracing - INFO -   17. Accounts Receivable Simulation (New) (Score: 0.2553)
+2025-04-20 02:02:27,702 - app.tracing - INFO -   18. Administrative Professional - Short Form (Score: 0.2510)
+2025-04-20 02:02:27,703 - app.tracing - INFO -   19. Insurance Administrative Assistant Solution (Score: 0.2494)
+2025-04-20 02:02:27,703 - app.tracing - INFO -   20. .NET XAML (New) (Score: 0.2446)
+2025-04-20 02:02:27,703 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:02:27,704 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:02:27,704 - app.tracing - INFO -   2. .NET Framework 4.5
+2025-04-20 02:02:27,704 - app.tracing - INFO -   3. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:02:27,706 - app.tracing - INFO -   4. .NET WCF (New)
+2025-04-20 02:02:27,706 - app.tracing - INFO -   5. ADO.NET (New)
+2025-04-20 02:02:27,708 - app.tracing - INFO -   6. Global Skills Development Report
+2025-04-20 02:02:27,710 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 02:02:27,711 - app.tracing - INFO -   8. Accounts Payable (New)
+2025-04-20 02:02:27,712 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:02:27,715 - app.tracing - INFO -   10. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:02:27,717 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:02:27,718 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:02:27,718 - app.tracing - INFO -   2. .NET Framework 4.5
+2025-04-20 02:02:27,719 - app.tracing - INFO -   3. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:02:27,719 - app.tracing - INFO -   4. .NET WCF (New)
+2025-04-20 02:02:27,719 - app.tracing - INFO -   5. ADO.NET (New)
+2025-04-20 02:02:27,720 - app.tracing - INFO -   6. Global Skills Development Report
+2025-04-20 02:02:27,720 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 02:02:27,720 - app.tracing - INFO -   8. Accounts Payable (New)
+2025-04-20 02:02:27,720 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:02:27,722 - app.tracing - INFO -   10. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:02:27,729 - app.tracing - INFO - ==================================================
+2025-04-20 02:03:28,659 - app.tracing - INFO - Trace ID: 20250420020328
+2025-04-20 02:03:28,660 - app.tracing - INFO - Query: javscript and bussiness admistrative
+
+2025-04-20 02:03:28,660 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 40}
+2025-04-20 02:03:28,661 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:03:28,664 - app.tracing - INFO -   1. Entry Level Sales Sift Out 7.1 (Score: 0.2908)
+2025-04-20 02:03:28,666 - app.tracing - INFO -   2. Entry level Sales 7.1 (International) (Score: 0.2540)
+2025-04-20 02:03:28,667 - app.tracing - INFO -   3. Entry level Sales 7.1 (Americas) (Score: 0.2531)
+2025-04-20 02:03:28,668 - app.tracing - INFO -   4. Industrial - Semi-skilled 7.1 (International) (Score: 0.2171)
+2025-04-20 02:03:28,668 - app.tracing - INFO -   5. Entry Level Customer Service 7.1 (South Africa) (Score: 0.2165)
+2025-04-20 02:03:28,668 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2108)
+2025-04-20 02:03:28,669 - app.tracing - INFO -   7. Bank Administrative Assistant - Short Form (Score: 0.2094)
+2025-04-20 02:03:28,669 - app.tracing - INFO -   8. Insurance Administrative Assistant Solution (Score: 0.2079)
+2025-04-20 02:03:28,670 - app.tracing - INFO -   9. Entry Level Customer Service 7.1 (International) (Score: 0.2067)
+2025-04-20 02:03:28,672 - app.tracing - INFO -   10. Entry Level Customer Service 7.1 (Americas) (Score: 0.2011)
+2025-04-20 02:03:28,676 - app.tracing - INFO -   11. .NET WCF (New) (Score: 0.1881)
+2025-04-20 02:03:28,677 - app.tracing - INFO -   12. ADO.NET (New) (Score: 0.1865)
+2025-04-20 02:03:28,679 - app.tracing - INFO -   13. Accounts Payable (New) (Score: 0.1825)
+2025-04-20 02:03:28,680 - app.tracing - INFO -   14. Entry Level Cashier 7.1 (International) (Score: 0.1761)
+2025-04-20 02:03:28,680 - app.tracing - INFO -   15. Accounts Receivable (New) (Score: 0.1754)
+2025-04-20 02:03:28,681 - app.tracing - INFO -   16. Cashier Solution (Score: 0.1729)
+2025-04-20 02:03:28,682 - app.tracing - INFO -   17. Entry Level Cashier 7.1 (Americas) (Score: 0.1668)
+2025-04-20 02:03:28,684 - app.tracing - INFO -   18. Accounts Receivable Simulation (New) (Score: 0.1519)
+2025-04-20 02:03:28,684 - app.tracing - INFO -   19. .NET Framework 4.5 (Score: 0.1493)
+2025-04-20 02:03:28,685 - app.tracing - INFO -   20. Accounts Payable Simulation (New) (Score: 0.1433)
+2025-04-20 02:03:28,685 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:03:28,686 - app.tracing - INFO -   1. Entry Level Sales Sift Out 7.1
+2025-04-20 02:03:28,687 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 02:03:28,688 - app.tracing - INFO -   3. Entry level Sales 7.1 (Americas)
+2025-04-20 02:03:28,688 - app.tracing - INFO -   4. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:03:28,692 - app.tracing - INFO -   5. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 02:03:28,694 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:03:28,696 - app.tracing - INFO -   7. Bank Administrative Assistant - Short Form
+2025-04-20 02:03:28,698 - app.tracing - INFO -   8. Insurance Administrative Assistant Solution
+2025-04-20 02:03:28,699 - app.tracing - INFO -   9. Entry Level Customer Service 7.1 (International)
+2025-04-20 02:03:28,700 - app.tracing - INFO -   10. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 02:03:28,700 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:03:28,701 - app.tracing - INFO -   1. Entry Level Sales Sift Out 7.1
+2025-04-20 02:03:28,704 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 02:03:28,710 - app.tracing - INFO -   3. Entry level Sales 7.1 (Americas)
+2025-04-20 02:03:28,711 - app.tracing - INFO -   4. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:03:28,720 - app.tracing - INFO -   5. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 02:03:28,723 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:03:28,724 - app.tracing - INFO -   7. Bank Administrative Assistant - Short Form
+2025-04-20 02:03:28,725 - app.tracing - INFO -   8. Insurance Administrative Assistant Solution
+2025-04-20 02:03:28,726 - app.tracing - INFO -   9. Entry Level Customer Service 7.1 (International)
+2025-04-20 02:03:28,728 - app.tracing - INFO -   10. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 02:03:28,728 - app.tracing - INFO - ==================================================
+2025-04-20 02:05:13,290 - app.tracing - INFO - Trace ID: 20250420020513
+2025-04-20 02:05:13,290 - app.tracing - INFO - Query: Give me assessment for OIL and GAS field
+
+
+2025-04-20 02:05:13,291 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 60}
+2025-04-20 02:05:13,292 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:05:13,293 - app.tracing - INFO -   1. Industrial Professional and Skilled 7.1 Solution (Score: 0.2555)
+2025-04-20 02:05:13,294 - app.tracing - INFO -   2. Financial Professional - Short Form (Score: 0.2520)
+2025-04-20 02:05:13,294 - app.tracing - INFO -   3. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.2409)
+2025-04-20 02:05:13,295 - app.tracing - INFO -   4. Apprentice + 8.0 Job Focused Assessment (Score: 0.2384)
+2025-04-20 02:05:13,295 - app.tracing - INFO -   5. Apprentice 8.0 Job Focused Assessment (Score: 0.2341)
+2025-04-20 02:05:13,296 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (International) (Score: 0.2056)
+2025-04-20 02:05:13,296 - app.tracing - INFO -   7. Accounts Receivable (New) (Score: 0.1966)
+2025-04-20 02:05:13,296 - app.tracing - INFO -   8. Global Skills Development Report (Score: 0.1949)
+2025-04-20 02:05:13,296 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.1884)
+2025-04-20 02:05:13,297 - app.tracing - INFO -   10. .NET Framework 4.5 (Score: 0.1884)
+2025-04-20 02:05:13,297 - app.tracing - INFO -   11. Manager + 7.0 Solution (Score: 0.1880)
+2025-04-20 02:05:13,298 - app.tracing - INFO -   12. Branch Manager - Short Form (Score: 0.1868)
+2025-04-20 02:05:13,298 - app.tracing - INFO -   13. .NET MVVM (New) (Score: 0.1789)
+2025-04-20 02:05:13,299 - app.tracing - INFO -   14. Accounts Payable (New) (Score: 0.1762)
+2025-04-20 02:05:13,299 - app.tracing - INFO -   15. Bank Collections Agent - Short Form (Score: 0.1708)
+2025-04-20 02:05:13,299 - app.tracing - INFO -   16. ADO.NET (New) (Score: 0.1593)
+2025-04-20 02:05:13,300 - app.tracing - INFO -   17. .NET WCF (New) (Score: 0.1521)
+2025-04-20 02:05:13,301 - app.tracing - INFO -   18. Bank Operations Supervisor - Short Form (Score: 0.1504)
+2025-04-20 02:05:13,302 - app.tracing - INFO -   19. Entry Level Customer Service 7.1 (International) (Score: 0.1431)
+2025-04-20 02:05:13,303 - app.tracing - INFO -   20. Entry Level Customer Service 7.1 (South Africa) (Score: 0.1425)
+2025-04-20 02:05:13,304 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:05:13,304 - app.tracing - INFO -   1. Industrial Professional and Skilled 7.1 Solution
+2025-04-20 02:05:13,305 - app.tracing - INFO -   2. Financial Professional - Short Form
+2025-04-20 02:05:13,305 - app.tracing - INFO -   3. Industrial Professional and Skilled 7.1 (Americas)
+2025-04-20 02:05:13,306 - app.tracing - INFO -   4. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:05:13,307 - app.tracing - INFO -   5. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:05:13,308 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:05:13,308 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 02:05:13,318 - app.tracing - INFO -   8. Global Skills Development Report
+2025-04-20 02:05:13,321 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:05:13,323 - app.tracing - INFO -   10. .NET Framework 4.5
+2025-04-20 02:05:13,324 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:05:13,325 - app.tracing - INFO -   1. Industrial Professional and Skilled 7.1 Solution
+2025-04-20 02:05:13,325 - app.tracing - INFO -   2. Financial Professional - Short Form
+2025-04-20 02:05:13,325 - app.tracing - INFO -   3. Industrial Professional and Skilled 7.1 (Americas)
+2025-04-20 02:05:13,330 - app.tracing - INFO -   4. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:05:13,331 - app.tracing - INFO -   5. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:05:13,332 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:05:13,332 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 02:05:13,333 - app.tracing - INFO -   8. Global Skills Development Report
+2025-04-20 02:05:13,339 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:05:13,341 - app.tracing - INFO -   10. .NET Framework 4.5
+2025-04-20 02:05:13,342 - app.tracing - INFO - ==================================================
+2025-04-20 02:06:08,878 - app.tracing - INFO - Trace ID: 20250420020608
+2025-04-20 02:06:08,878 - app.tracing - INFO - Query: Give me assessments for customer services
+
+
+2025-04-20 02:06:08,878 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 60}
+2025-04-20 02:06:08,878 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:06:08,879 - app.tracing - INFO -   1. Entry Level Customer Service 7.1 (Americas) (Score: 0.5210)
+2025-04-20 02:06:08,880 - app.tracing - INFO -   2. Entry Level Customer Service 7.1 (South Africa) (Score: 0.5165)
+2025-04-20 02:06:08,880 - app.tracing - INFO -   3. Entry Level Customer Service 7.1 (International) (Score: 0.5123)
+2025-04-20 02:06:08,881 - app.tracing - INFO -   4. Accounts Receivable (New) (Score: 0.4353)
+2025-04-20 02:06:08,881 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.4351)
+2025-04-20 02:06:08,881 - app.tracing - INFO -   6. Bank Collections Agent - Short Form (Score: 0.4272)
+2025-04-20 02:06:08,881 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (Americas) (Score: 0.4243)
+2025-04-20 02:06:08,882 - app.tracing - INFO -   8. Manager + 7.0 Solution (Score: 0.4221)
+2025-04-20 02:06:08,882 - app.tracing - INFO -   9. Entry Level Cashier 7.1 (International) (Score: 0.4219)
+2025-04-20 02:06:08,882 - app.tracing - INFO -   10. Entry level Sales 7.1 (Americas) (Score: 0.4212)
+2025-04-20 02:06:08,882 - app.tracing - INFO -   11. Apprentice + 8.0 Job Focused Assessment (Score: 0.4085)
+2025-04-20 02:06:08,883 - app.tracing - INFO -   12. Entry level Sales 7.1 (International) (Score: 0.4041)
+2025-04-20 02:06:08,886 - app.tracing - INFO -   13. Apprentice 8.0 Job Focused Assessment (Score: 0.4024)
+2025-04-20 02:06:08,887 - app.tracing - INFO -   14. Cashier Solution (Score: 0.3963)
+2025-04-20 02:06:08,888 - app.tracing - INFO -   15. Bank Administrative Assistant - Short Form (Score: 0.3906)
+2025-04-20 02:06:08,888 - app.tracing - INFO -   16. Insurance Administrative Assistant Solution (Score: 0.3893)
+2025-04-20 02:06:08,888 - app.tracing - INFO -   17. Insurance Account Manager Solution (Score: 0.3769)
+2025-04-20 02:06:08,889 - app.tracing - INFO -   18. Bilingual Spanish Reservation Agent Solution (Score: 0.3715)
+2025-04-20 02:06:08,889 - app.tracing - INFO -   19. Financial Professional - Short Form (Score: 0.3715)
+2025-04-20 02:06:08,889 - app.tracing - INFO -   20. Entry Level Sales Sift Out 7.1 (Score: 0.3691)
+2025-04-20 02:06:08,890 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:06:08,890 - app.tracing - INFO -   1. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 02:06:08,890 - app.tracing - INFO -   2. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 02:06:08,891 - app.tracing - INFO -   3. Entry Level Customer Service 7.1 (International)
+2025-04-20 02:06:08,891 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 02:06:08,891 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 02:06:08,891 - app.tracing - INFO -   6. Bank Collections Agent - Short Form
+2025-04-20 02:06:08,892 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (Americas)
+2025-04-20 02:06:08,892 - app.tracing - INFO -   8. Manager + 7.0 Solution
+2025-04-20 02:06:08,893 - app.tracing - INFO -   9. Entry Level Cashier 7.1 (International)
+2025-04-20 02:06:08,893 - app.tracing - INFO -   10. Entry level Sales 7.1 (Americas)
+2025-04-20 02:06:08,893 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:06:08,894 - app.tracing - INFO -   1. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 02:06:08,894 - app.tracing - INFO -   2. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 02:06:08,895 - app.tracing - INFO -   3. Entry Level Customer Service 7.1 (International)
+2025-04-20 02:06:08,895 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 02:06:08,895 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 02:06:08,896 - app.tracing - INFO -   6. Bank Collections Agent - Short Form
+2025-04-20 02:06:08,896 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (Americas)
+2025-04-20 02:06:08,896 - app.tracing - INFO -   8. Manager + 7.0 Solution
+2025-04-20 02:06:08,897 - app.tracing - INFO -   9. Entry Level Cashier 7.1 (International)
+2025-04-20 02:06:08,897 - app.tracing - INFO -   10. Entry level Sales 7.1 (Americas)
+2025-04-20 02:06:08,897 - app.tracing - INFO - ==================================================
+2025-04-20 02:06:58,921 - app.tracing - INFO - Trace ID: 20250420020658
+2025-04-20 02:06:58,922 - app.tracing - INFO - Query: Give me assessments for clerical 
+services
+
+
+2025-04-20 02:06:58,922 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 60}
+2025-04-20 02:06:58,922 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:06:58,923 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.5065)
+2025-04-20 02:06:58,923 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.4914)
+2025-04-20 02:06:58,924 - app.tracing - INFO -   3. Financial Professional - Short Form (Score: 0.4687)
+2025-04-20 02:06:58,924 - app.tracing - INFO -   4. Accounts Payable (New) (Score: 0.4632)
+2025-04-20 02:06:58,924 - app.tracing - INFO -   5. Bank Administrative Assistant - Short Form (Score: 0.4624)
+2025-04-20 02:06:58,925 - app.tracing - INFO -   6. Bank Collections Agent - Short Form (Score: 0.4554)
+2025-04-20 02:06:58,927 - app.tracing - INFO -   7. Accounts Receivable (New) (Score: 0.4550)
+2025-04-20 02:06:58,929 - app.tracing - INFO -   8. Bookkeeping, Accounting, Auditing Clerk Short Form (Score: 0.4442)
+2025-04-20 02:06:58,929 - app.tracing - INFO -   9. Insurance Administrative Assistant Solution (Score: 0.4391)
+2025-04-20 02:06:58,930 - app.tracing - INFO -   10. Industrial Professional and Skilled 7.1 Solution (Score: 0.4049)
+2025-04-20 02:06:58,930 - app.tracing - INFO -   11. Manager + 7.0 Solution (Score: 0.4016)
+2025-04-20 02:06:58,930 - app.tracing - INFO -   12. Administrative Professional - Short Form (Score: 0.3930)
+2025-04-20 02:06:58,931 - app.tracing - INFO -   13. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.3920)
+2025-04-20 02:06:58,931 - app.tracing - INFO -   14. Bank Operations Supervisor - Short Form (Score: 0.3888)
+2025-04-20 02:06:58,931 - app.tracing - INFO -   15. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.3704)
+2025-04-20 02:06:58,932 - app.tracing - INFO -   16. Entry Level Cashier 7.1 (Americas) (Score: 0.3663)
+2025-04-20 02:06:58,932 - app.tracing - INFO -   17. Industrial - Semi-skilled 7.1 (International) (Score: 0.3620)
+2025-04-20 02:06:58,935 - app.tracing - INFO -   18. Entry Level Cashier 7.1 (International) (Score: 0.3557)
+2025-04-20 02:06:58,937 - app.tracing - INFO -   19. Accounts Payable Simulation (New) (Score: 0.3453)
+2025-04-20 02:06:58,938 - app.tracing - INFO -   20. Branch Manager - Short Form (Score: 0.3410)
+2025-04-20 02:06:58,939 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:06:58,939 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:06:58,940 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:06:58,940 - app.tracing - INFO -   3. Financial Professional - Short Form
+2025-04-20 02:06:58,941 - app.tracing - INFO -   4. Accounts Payable (New)
+2025-04-20 02:06:58,941 - app.tracing - INFO -   5. Bank Administrative Assistant - Short Form
+2025-04-20 02:06:58,943 - app.tracing - INFO -   6. Bank Collections Agent - Short Form
+2025-04-20 02:06:58,944 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 02:06:58,946 - app.tracing - INFO -   8. Bookkeeping, Accounting, Auditing Clerk Short Form
+2025-04-20 02:06:58,947 - app.tracing - INFO -   9. Insurance Administrative Assistant Solution
+2025-04-20 02:06:58,947 - app.tracing - INFO -   10. Industrial Professional and Skilled 7.1 Solution
+2025-04-20 02:06:58,948 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:06:58,948 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:06:58,949 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:06:58,949 - app.tracing - INFO -   3. Financial Professional - Short Form
+2025-04-20 02:06:58,950 - app.tracing - INFO -   4. Accounts Payable (New)
+2025-04-20 02:06:58,955 - app.tracing - INFO -   5. Bank Administrative Assistant - Short Form
+2025-04-20 02:06:58,956 - app.tracing - INFO -   6. Bank Collections Agent - Short Form
+2025-04-20 02:06:58,958 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 02:06:58,958 - app.tracing - INFO -   8. Bookkeeping, Accounting, Auditing Clerk Short Form
+2025-04-20 02:06:58,959 - app.tracing - INFO -   9. Insurance Administrative Assistant Solution
+2025-04-20 02:06:58,959 - app.tracing - INFO -   10. Industrial Professional and Skilled 7.1 Solution
+2025-04-20 02:06:58,960 - app.tracing - INFO - ==================================================
+2025-04-20 02:07:50,196 - app.tracing - INFO - Trace ID: 20250420020750
+2025-04-20 02:07:50,198 - app.tracing - INFO - Query: give me assessments for IT (information Technology) basically for frontend
+
+
+
+2025-04-20 02:07:50,202 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 60}
+2025-04-20 02:07:50,203 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:07:50,204 - app.tracing - INFO -   1. .NET Framework 4.5 (Score: 0.4300)
+2025-04-20 02:07:50,204 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment (Score: 0.3984)
+2025-04-20 02:07:50,204 - app.tracing - INFO -   3. ADO.NET (New) (Score: 0.3954)
+2025-04-20 02:07:50,206 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment (Score: 0.3930)
+2025-04-20 02:07:50,206 - app.tracing - INFO -   5. Industrial Professional and Skilled 7.1 Solution (Score: 0.3865)
+2025-04-20 02:07:50,206 - app.tracing - INFO -   6. .NET WCF (New) (Score: 0.3730)
+2025-04-20 02:07:50,209 - app.tracing - INFO -   7. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.3678)
+2025-04-20 02:07:50,212 - app.tracing - INFO -   8. Manager + 7.0 Solution (Score: 0.3608)
+2025-04-20 02:07:50,213 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.3282)
+2025-04-20 02:07:50,213 - app.tracing - INFO -   10. Industrial - Semi-skilled 7.1 (International) (Score: 0.3279)
+2025-04-20 02:07:50,214 - app.tracing - INFO -   11. Insurance Administrative Assistant Solution (Score: 0.3243)
+2025-04-20 02:07:50,214 - app.tracing - INFO -   12. Global Skills Development Report (Score: 0.3163)
+2025-04-20 02:07:50,214 - app.tracing - INFO -   13. Entry Level Sales Sift Out 7.1 (Score: 0.3088)
+2025-04-20 02:07:50,215 - app.tracing - INFO -   14. Account Manager Solution (Score: 0.3076)
+2025-04-20 02:07:50,215 - app.tracing - INFO -   15. Accounts Receivable (New) (Score: 0.3023)
+2025-04-20 02:07:50,215 - app.tracing - INFO -   16. Entry Level Customer Service 7.1 (Americas) (Score: 0.3014)
+2025-04-20 02:07:50,216 - app.tracing - INFO -   17. Entry Level Customer Service 7.1 (International) (Score: 0.2988)
+2025-04-20 02:07:50,216 - app.tracing - INFO -   18. Entry Level Customer Service 7.1 (South Africa) (Score: 0.2979)
+2025-04-20 02:07:50,217 - app.tracing - INFO -   19. Accounts Payable (New) (Score: 0.2937)
+2025-04-20 02:07:50,219 - app.tracing - INFO -   20. .NET MVVM (New) (Score: 0.2867)
+2025-04-20 02:07:50,219 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:07:50,219 - app.tracing - INFO -   1. .NET Framework 4.5
+2025-04-20 02:07:50,220 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:07:50,220 - app.tracing - INFO -   3. ADO.NET (New)
+2025-04-20 02:07:50,221 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:07:50,221 - app.tracing - INFO -   5. Industrial Professional and Skilled 7.1 Solution
+2025-04-20 02:07:50,221 - app.tracing - INFO -   6. .NET WCF (New)
+2025-04-20 02:07:50,222 - app.tracing - INFO -   7. Industrial Professional and Skilled 7.1 (Americas)
+2025-04-20 02:07:50,222 - app.tracing - INFO -   8. Manager + 7.0 Solution
+2025-04-20 02:07:50,223 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:07:50,223 - app.tracing - INFO -   10. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:07:50,223 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:07:50,224 - app.tracing - INFO -   1. .NET Framework 4.5
+2025-04-20 02:07:50,228 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:07:50,229 - app.tracing - INFO -   3. ADO.NET (New)
+2025-04-20 02:07:50,230 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:07:50,230 - app.tracing - INFO -   5. Industrial Professional and Skilled 7.1 Solution
+2025-04-20 02:07:50,231 - app.tracing - INFO -   6. .NET WCF (New)
+2025-04-20 02:07:50,231 - app.tracing - INFO -   7. Industrial Professional and Skilled 7.1 (Americas)
+2025-04-20 02:07:50,231 - app.tracing - INFO -   8. Manager + 7.0 Solution
+2025-04-20 02:07:50,231 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 02:07:50,232 - app.tracing - INFO -   10. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 02:07:50,232 - app.tracing - INFO - ==================================================
+2025-04-20 02:10:54,318 - app.tracing - INFO - Trace ID: 20250420021054
+2025-04-20 02:10:54,319 - app.tracing - INFO - Query: I am hiring for an analyst and wants applications to screen using Cognitive and personality tests, 
+what options are available within 45 mins. 
+
+
+
+2025-04-20 02:10:54,320 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 60}
+2025-04-20 02:10:54,321 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:10:54,322 - app.tracing - INFO -   1. Financial Professional - Short Form (Score: 0.3852)
+2025-04-20 02:10:54,323 - app.tracing - INFO -   2. Branch Manager - Short Form (Score: 0.3579)
+2025-04-20 02:10:54,324 - app.tracing - INFO -   3. Apprentice + 8.0 Job Focused Assessment (Score: 0.3525)
+2025-04-20 02:10:54,325 - app.tracing - INFO -   4. Bank Collections Agent - Short Form (Score: 0.3437)
+2025-04-20 02:10:54,326 - app.tracing - INFO -   5. Manager + 7.0 Solution (Score: 0.3406)
+2025-04-20 02:10:54,326 - app.tracing - INFO -   6. Global Skills Development Report (Score: 0.3313)
+2025-04-20 02:10:54,326 - app.tracing - INFO -   7. Bank Operations Supervisor - Short Form (Score: 0.2976)
+2025-04-20 02:10:54,327 - app.tracing - INFO -   8. Manager - Short Form (Score: 0.2861)
+2025-04-20 02:10:54,328 - app.tracing - INFO -   9. Administrative Professional - Short Form (Score: 0.2847)
+2025-04-20 02:10:54,329 - app.tracing - INFO -   10. Insurance Sales Manager Solution (Score: 0.2797)
+2025-04-20 02:10:54,329 - app.tracing - INFO -   11. Industrial Professional and Skilled 7.1 Solution (Score: 0.2780)
+2025-04-20 02:10:54,330 - app.tracing - INFO -   12. Accounts Receivable (New) (Score: 0.2779)
+2025-04-20 02:10:54,330 - app.tracing - INFO -   13. Bank Administrative Assistant - Short Form (Score: 0.2762)
+2025-04-20 02:10:54,330 - app.tracing - INFO -   14. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.2678)
+2025-04-20 02:10:54,331 - app.tracing - INFO -   15. Insurance Agent Solution (Score: 0.2642)
+2025-04-20 02:10:54,336 - app.tracing - INFO -   16. ADO.NET (New) (Score: 0.2614)
+2025-04-20 02:10:54,338 - app.tracing - INFO -   17. Bookkeeping, Accounting, Auditing Clerk Short Form (Score: 0.2592)
+2025-04-20 02:10:54,339 - app.tracing - INFO -   18. Apprentice 8.0 Job Focused Assessment (Score: 0.2572)
+2025-04-20 02:10:54,339 - app.tracing - INFO -   19. Insurance Administrative Assistant Solution (Score: 0.2564)
+2025-04-20 02:10:54,340 - app.tracing - INFO -   20. .NET MVVM (New) (Score: 0.2549)
+2025-04-20 02:10:54,340 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:10:54,341 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 02:10:54,341 - app.tracing - INFO -   2. Branch Manager - Short Form
+2025-04-20 02:10:54,344 - app.tracing - INFO -   3. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:10:54,345 - app.tracing - INFO -   4. Bank Collections Agent - Short Form
+2025-04-20 02:10:54,345 - app.tracing - INFO -   5. Manager + 7.0 Solution
+2025-04-20 02:10:54,346 - app.tracing - INFO -   6. Global Skills Development Report
+2025-04-20 02:10:54,346 - app.tracing - INFO -   7. Bank Operations Supervisor - Short Form
+2025-04-20 02:10:54,347 - app.tracing - INFO -   8. Manager - Short Form
+2025-04-20 02:10:54,347 - app.tracing - INFO -   9. Administrative Professional - Short Form
+2025-04-20 02:10:54,347 - app.tracing - INFO -   10. Insurance Sales Manager Solution
+2025-04-20 02:10:54,347 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:10:54,348 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 02:10:54,348 - app.tracing - INFO -   2. Branch Manager - Short Form
+2025-04-20 02:10:54,349 - app.tracing - INFO -   3. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:10:54,349 - app.tracing - INFO -   4. Bank Collections Agent - Short Form
+2025-04-20 02:10:54,349 - app.tracing - INFO -   5. Manager + 7.0 Solution
+2025-04-20 02:10:54,349 - app.tracing - INFO -   6. Global Skills Development Report
+2025-04-20 02:10:54,350 - app.tracing - INFO -   7. Bank Operations Supervisor - Short Form
+2025-04-20 02:10:54,354 - app.tracing - INFO -   8. Manager - Short Form
+2025-04-20 02:10:54,356 - app.tracing - INFO -   9. Administrative Professional - Short Form
+2025-04-20 02:10:54,358 - app.tracing - INFO -   10. Insurance Sales Manager Solution
+2025-04-20 02:10:54,359 - app.tracing - INFO - ==================================================
+2025-04-20 02:11:13,137 - app.tracing - INFO - Trace ID: 20250420021113
+2025-04-20 02:11:13,137 - app.tracing - INFO - Query: I am hiring for an analyst and wants applications to screen using Cognitive and personality tests, 
+what options are available within 45 mins. 
+
+
+
+2025-04-20 02:11:13,137 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 45}
+2025-04-20 02:11:13,138 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:11:13,139 - app.tracing - INFO -   1. Financial Professional - Short Form (Score: 0.3852)
+2025-04-20 02:11:13,139 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment (Score: 0.3525)
+2025-04-20 02:11:13,139 - app.tracing - INFO -   3. Bank Collections Agent - Short Form (Score: 0.3437)
+2025-04-20 02:11:13,140 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.3313)
+2025-04-20 02:11:13,140 - app.tracing - INFO -   5. Bank Operations Supervisor - Short Form (Score: 0.2976)
+2025-04-20 02:11:13,140 - app.tracing - INFO -   6. Administrative Professional - Short Form (Score: 0.2847)
+2025-04-20 02:11:13,140 - app.tracing - INFO -   7. Accounts Receivable (New) (Score: 0.2779)
+2025-04-20 02:11:13,141 - app.tracing - INFO -   8. Bank Administrative Assistant - Short Form (Score: 0.2762)
+2025-04-20 02:11:13,141 - app.tracing - INFO -   9. ADO.NET (New) (Score: 0.2614)
+2025-04-20 02:11:13,141 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment (Score: 0.2572)
+2025-04-20 02:11:13,141 - app.tracing - INFO -   11. Insurance Administrative Assistant Solution (Score: 0.2564)
+2025-04-20 02:11:13,142 - app.tracing - INFO -   12. .NET MVVM (New) (Score: 0.2549)
+2025-04-20 02:11:13,142 - app.tracing - INFO -   13. .NET Framework 4.5 (Score: 0.2521)
+2025-04-20 02:11:13,142 - app.tracing - INFO -   14. Bilingual Spanish Reservation Agent Solution (Score: 0.2505)
+2025-04-20 02:11:13,142 - app.tracing - INFO -   15. Accounts Payable (New) (Score: 0.2458)
+2025-04-20 02:11:13,143 - app.tracing - INFO -   16. .NET MVC (New) (Score: 0.2286)
+2025-04-20 02:11:13,143 - app.tracing - INFO -   17. .NET XAML (New) (Score: 0.2215)
+2025-04-20 02:11:13,143 - app.tracing - INFO -   18. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2158)
+2025-04-20 02:11:13,144 - app.tracing - INFO -   19. Industrial - Semi-skilled 7.1 (International) (Score: 0.2006)
+2025-04-20 02:11:13,144 - app.tracing - INFO -   20. Accounts Receivable Simulation (New) (Score: 0.1988)
+2025-04-20 02:11:13,144 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:11:13,145 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 02:11:13,145 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:11:13,146 - app.tracing - INFO -   3. Bank Collections Agent - Short Form
+2025-04-20 02:11:13,146 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 02:11:13,146 - app.tracing - INFO -   5. Bank Operations Supervisor - Short Form
+2025-04-20 02:11:13,147 - app.tracing - INFO -   6. Administrative Professional - Short Form
+2025-04-20 02:11:13,148 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 02:11:13,148 - app.tracing - INFO -   8. Bank Administrative Assistant - Short Form
+2025-04-20 02:11:13,149 - app.tracing - INFO -   9. ADO.NET (New)
+2025-04-20 02:11:13,149 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:11:13,149 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:11:13,151 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 02:11:13,151 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:11:13,151 - app.tracing - INFO -   3. Bank Collections Agent - Short Form
+2025-04-20 02:11:13,151 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 02:11:13,152 - app.tracing - INFO -   5. Bank Operations Supervisor - Short Form
+2025-04-20 02:11:13,152 - app.tracing - INFO -   6. Administrative Professional - Short Form
+2025-04-20 02:11:13,152 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 02:11:13,152 - app.tracing - INFO -   8. Bank Administrative Assistant - Short Form
+2025-04-20 02:11:13,152 - app.tracing - INFO -   9. ADO.NET (New)
+2025-04-20 02:11:13,153 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:11:13,153 - app.tracing - INFO - ==================================================
+2025-04-20 02:14:34,235 - app.tracing - INFO - Trace ID: 20250420021434
+2025-04-20 02:14:34,237 - app.tracing - INFO - Query: I am hiring for an analyst and wants applications to screen using Cognitive and personality tests, 
+what options are available within 45 mins. 
+
+
+
+2025-04-20 02:14:34,237 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 35}
+2025-04-20 02:14:34,238 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:14:34,239 - app.tracing - INFO -   1. Financial Professional - Short Form (Score: 0.3852)
+2025-04-20 02:14:34,239 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment (Score: 0.3525)
+2025-04-20 02:14:34,240 - app.tracing - INFO -   3. Global Skills Development Report (Score: 0.3313)
+2025-04-20 02:14:34,240 - app.tracing - INFO -   4. Accounts Receivable (New) (Score: 0.2779)
+2025-04-20 02:14:34,240 - app.tracing - INFO -   5. Bank Administrative Assistant - Short Form (Score: 0.2762)
+2025-04-20 02:14:34,241 - app.tracing - INFO -   6. ADO.NET (New) (Score: 0.2614)
+2025-04-20 02:14:34,241 - app.tracing - INFO -   7. Apprentice 8.0 Job Focused Assessment (Score: 0.2572)
+2025-04-20 02:14:34,241 - app.tracing - INFO -   8. Insurance Administrative Assistant Solution (Score: 0.2564)
+2025-04-20 02:14:34,243 - app.tracing - INFO -   9. .NET MVVM (New) (Score: 0.2549)
+2025-04-20 02:14:34,243 - app.tracing - INFO -   10. .NET Framework 4.5 (Score: 0.2521)
+2025-04-20 02:14:34,243 - app.tracing - INFO -   11. Accounts Payable (New) (Score: 0.2458)
+2025-04-20 02:14:34,244 - app.tracing - INFO -   12. .NET MVC (New) (Score: 0.2286)
+2025-04-20 02:14:34,244 - app.tracing - INFO -   13. .NET XAML (New) (Score: 0.2215)
+2025-04-20 02:14:34,244 - app.tracing - INFO -   14. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2158)
+2025-04-20 02:14:34,245 - app.tracing - INFO -   15. Industrial - Semi-skilled 7.1 (International) (Score: 0.2006)
+2025-04-20 02:14:34,245 - app.tracing - INFO -   16. Accounts Receivable Simulation (New) (Score: 0.1988)
+2025-04-20 02:14:34,245 - app.tracing - INFO -   17. Accounts Payable Simulation (New) (Score: 0.1942)
+2025-04-20 02:14:34,246 - app.tracing - INFO -   18. .NET WCF (New) (Score: 0.1930)
+2025-04-20 02:14:34,246 - app.tracing - INFO -   19. Entry Level Sales Sift Out 7.1 (Score: 0.1874)
+2025-04-20 02:14:34,246 - app.tracing - INFO -   20. Cashier Solution (Score: 0.1848)
+2025-04-20 02:14:34,246 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:14:34,247 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 02:14:34,248 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:14:34,248 - app.tracing - INFO -   3. Global Skills Development Report
+2025-04-20 02:14:34,249 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 02:14:34,249 - app.tracing - INFO -   5. Bank Administrative Assistant - Short Form
+2025-04-20 02:14:34,249 - app.tracing - INFO -   6. ADO.NET (New)
+2025-04-20 02:14:34,249 - app.tracing - INFO -   7. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:14:34,249 - app.tracing - INFO -   8. Insurance Administrative Assistant Solution
+2025-04-20 02:14:34,250 - app.tracing - INFO -   9. .NET MVVM (New)
+2025-04-20 02:14:34,250 - app.tracing - INFO -   10. .NET Framework 4.5
+2025-04-20 02:14:34,250 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:14:34,251 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 02:14:34,253 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 02:14:34,257 - app.tracing - INFO -   3. Global Skills Development Report
+2025-04-20 02:14:34,261 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 02:14:34,263 - app.tracing - INFO -   5. Bank Administrative Assistant - Short Form
+2025-04-20 02:14:34,265 - app.tracing - INFO -   6. ADO.NET (New)
+2025-04-20 02:14:34,270 - app.tracing - INFO -   7. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:14:34,273 - app.tracing - INFO -   8. Insurance Administrative Assistant Solution
+2025-04-20 02:14:34,274 - app.tracing - INFO -   9. .NET MVVM (New)
+2025-04-20 02:14:34,274 - app.tracing - INFO -   10. .NET Framework 4.5
+2025-04-20 02:14:34,274 - app.tracing - INFO - ==================================================
+2025-04-20 02:14:38,840 - app.tracing - INFO - Trace ID: 20250420021438
+2025-04-20 02:14:38,841 - app.tracing - INFO - Query: I am hiring for an analyst and wants applications to screen using Cognitive and personality tests, 
+what options are available within 45 mins. 
+
+
+
+2025-04-20 02:14:38,841 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 20}
+2025-04-20 02:14:38,841 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:14:38,842 - app.tracing - INFO -   1. Global Skills Development Report (Score: 0.3313)
+2025-04-20 02:14:38,843 - app.tracing - INFO -   2. Accounts Receivable (New) (Score: 0.2779)
+2025-04-20 02:14:38,843 - app.tracing - INFO -   3. ADO.NET (New) (Score: 0.2614)
+2025-04-20 02:14:38,844 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment (Score: 0.2572)
+2025-04-20 02:14:38,844 - app.tracing - INFO -   5. .NET MVVM (New) (Score: 0.2549)
+2025-04-20 02:14:38,846 - app.tracing - INFO -   6. Accounts Payable (New) (Score: 0.2458)
+2025-04-20 02:14:38,846 - app.tracing - INFO -   7. .NET MVC (New) (Score: 0.2286)
+2025-04-20 02:14:38,846 - app.tracing - INFO -   8. .NET XAML (New) (Score: 0.2215)
+2025-04-20 02:14:38,847 - app.tracing - INFO -   9. Accounts Receivable Simulation (New) (Score: 0.1988)
+2025-04-20 02:14:38,848 - app.tracing - INFO -   10. Accounts Payable Simulation (New) (Score: 0.1942)
+2025-04-20 02:14:38,848 - app.tracing - INFO -   11. .NET WCF (New) (Score: 0.1930)
+2025-04-20 02:14:38,848 - app.tracing - INFO -   12. Entry Level Sales Sift Out 7.1 (Score: 0.1874)
+2025-04-20 02:14:38,848 - app.tracing - INFO -   13. .NET WPF (New) (Score: 0.1836)
+2025-04-20 02:14:38,849 - app.tracing - INFO -   14. Entry Level Customer Service 7.1 (Americas) (Score: 0.1784)
+2025-04-20 02:14:38,850 - app.tracing - INFO -   15. Entry level Sales 7.1 (International) (Score: 0.1762)
+2025-04-20 02:14:38,850 - app.tracing - INFO -   16. Entry level Sales 7.1 (Americas) (Score: 0.1736)
+2025-04-20 02:14:38,853 - app.tracing - INFO -   17. Entry Level Customer Service 7.1 (International) (Score: 0.1731)
+2025-04-20 02:14:38,856 - app.tracing - INFO -   18. Entry Level Customer Service 7.1 (South Africa) (Score: 0.1725)
+2025-04-20 02:14:38,858 - app.tracing - INFO -   19. Entry Level Cashier 7.1 (Americas) (Score: 0.1547)
+2025-04-20 02:14:38,858 - app.tracing - INFO -   20. Entry Level Cashier 7.1 (International) (Score: 0.1452)
+2025-04-20 02:14:38,859 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:14:38,860 - app.tracing - INFO -   1. Global Skills Development Report
+2025-04-20 02:14:38,861 - app.tracing - INFO -   2. Accounts Receivable (New)
+2025-04-20 02:14:38,861 - app.tracing - INFO -   3. ADO.NET (New)
+2025-04-20 02:14:38,861 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:14:38,862 - app.tracing - INFO -   5. .NET MVVM (New)
+2025-04-20 02:14:38,862 - app.tracing - INFO -   6. Accounts Payable (New)
+2025-04-20 02:14:38,862 - app.tracing - INFO -   7. .NET MVC (New)
+2025-04-20 02:14:38,862 - app.tracing - INFO -   8. .NET XAML (New)
+2025-04-20 02:14:38,863 - app.tracing - INFO -   9. Accounts Receivable Simulation (New)
+2025-04-20 02:14:38,863 - app.tracing - INFO -   10. Accounts Payable Simulation (New)
+2025-04-20 02:14:38,864 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:14:38,864 - app.tracing - INFO -   1. Global Skills Development Report
+2025-04-20 02:14:38,865 - app.tracing - INFO -   2. Accounts Receivable (New)
+2025-04-20 02:14:38,865 - app.tracing - INFO -   3. ADO.NET (New)
+2025-04-20 02:14:38,866 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment
+2025-04-20 02:14:38,866 - app.tracing - INFO -   5. .NET MVVM (New)
+2025-04-20 02:14:38,866 - app.tracing - INFO -   6. Accounts Payable (New)
+2025-04-20 02:14:38,866 - app.tracing - INFO -   7. .NET MVC (New)
+2025-04-20 02:14:38,867 - app.tracing - INFO -   8. .NET XAML (New)
+2025-04-20 02:14:38,867 - app.tracing - INFO -   9. Accounts Receivable Simulation (New)
+2025-04-20 02:14:38,867 - app.tracing - INFO -   10. Accounts Payable Simulation (New)
+2025-04-20 02:14:38,867 - app.tracing - INFO - ==================================================
+2025-04-20 02:15:06,074 - app.tracing - INFO - Trace ID: 20250420021506
+2025-04-20 02:15:06,074 - app.tracing - INFO - Query: only give one
+
+
+
+
+2025-04-20 02:15:06,075 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 20}
+2025-04-20 02:15:06,076 - app.tracing - INFO - Vector Search Results:
+2025-04-20 02:15:06,077 - app.tracing - INFO -   1. .NET WCF (New) (Score: 0.0999)
+2025-04-20 02:15:06,077 - app.tracing - INFO -   2. Global Skills Development Report (Score: 0.0787)
+2025-04-20 02:15:06,078 - app.tracing - INFO -   3. Accounts Payable (New) (Score: 0.0612)
+2025-04-20 02:15:06,078 - app.tracing - INFO -   4. Accounts Receivable (New) (Score: 0.0550)
+2025-04-20 02:15:06,078 - app.tracing - INFO -   5. Entry Level Customer Service 7.1 (Americas) (Score: 0.0514)
+2025-04-20 02:15:06,078 - app.tracing - INFO -   6. Entry Level Customer Service 7.1 (South Africa) (Score: 0.0493)
+2025-04-20 02:15:06,078 - app.tracing - INFO -   7. Entry Level Customer Service 7.1 (International) (Score: 0.0476)
+2025-04-20 02:15:06,079 - app.tracing - INFO -   8. .NET MVC (New) (Score: 0.0342)
+2025-04-20 02:15:06,080 - app.tracing - INFO -   9. Entry Level Sales Sift Out 7.1 (Score: 0.0323)
+2025-04-20 02:15:06,081 - app.tracing - INFO -   10. Entry level Sales 7.1 (Americas) (Score: 0.0319)
+2025-04-20 02:15:06,082 - app.tracing - INFO -   11. Entry level Sales 7.1 (International) (Score: 0.0193)
+2025-04-20 02:15:06,082 - app.tracing - INFO -   12. .NET WPF (New) (Score: 0.0181)
+2025-04-20 02:15:06,083 - app.tracing - INFO -   13. .NET MVVM (New) (Score: 0.0157)
+2025-04-20 02:15:06,085 - app.tracing - INFO -   14. Entry Level Cashier 7.1 (International) (Score: 0.0130)
+2025-04-20 02:15:06,086 - app.tracing - INFO -   15. Entry Level Cashier 7.1 (Americas) (Score: 0.0120)
+2025-04-20 02:15:06,086 - app.tracing - INFO -   16. ADO.NET (New) (Score: 0.0075)
+2025-04-20 02:15:06,086 - app.tracing - INFO -   17. .NET XAML (New) (Score: 0.0069)
+2025-04-20 02:15:06,087 - app.tracing - INFO -   18. Accounts Payable Simulation (New) (Score: 0.0008)
+2025-04-20 02:15:06,087 - app.tracing - INFO -   19. Accounts Receivable Simulation (New) (Score: -0.0048)
+2025-04-20 02:15:06,087 - app.tracing - INFO -   20. Apprentice 8.0 Job Focused Assessment (Score: -0.0092)
+2025-04-20 02:15:06,087 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 02:15:06,087 - app.tracing - INFO -   1. .NET WCF (New)
+2025-04-20 02:15:06,088 - app.tracing - INFO -   2. Global Skills Development Report
+2025-04-20 02:15:06,088 - app.tracing - INFO -   3. Accounts Payable (New)
+2025-04-20 02:15:06,088 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 02:15:06,088 - app.tracing - INFO -   5. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 02:15:06,089 - app.tracing - INFO -   6. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 02:15:06,089 - app.tracing - INFO -   7. Entry Level Customer Service 7.1 (International)
+2025-04-20 02:15:06,089 - app.tracing - INFO -   8. .NET MVC (New)
+2025-04-20 02:15:06,089 - app.tracing - INFO -   9. Entry Level Sales Sift Out 7.1
+2025-04-20 02:15:06,090 - app.tracing - INFO -   10. Entry level Sales 7.1 (Americas)
+2025-04-20 02:15:06,090 - app.tracing - INFO - Final Recommendations:
+2025-04-20 02:15:06,090 - app.tracing - INFO -   1. .NET WCF (New)
+2025-04-20 02:15:06,091 - app.tracing - INFO -   2. Global Skills Development Report
+2025-04-20 02:15:06,091 - app.tracing - INFO -   3. Accounts Payable (New)
+2025-04-20 02:15:06,092 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 02:15:06,092 - app.tracing - INFO -   5. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 02:15:06,093 - app.tracing - INFO -   6. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 02:15:06,093 - app.tracing - INFO -   7. Entry Level Customer Service 7.1 (International)
+2025-04-20 02:15:06,093 - app.tracing - INFO -   8. .NET MVC (New)
+2025-04-20 02:15:06,094 - app.tracing - INFO -   9. Entry Level Sales Sift Out 7.1
+2025-04-20 02:15:06,094 - app.tracing - INFO -   10. Entry level Sales 7.1 (Americas)
+2025-04-20 02:15:06,094 - app.tracing - INFO - ==================================================
+2025-04-20 10:47:24,022 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 10:47:25,488 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 10:48:03,198 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 10:48:04,590 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 10:50:00,066 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 10:50:00,798 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 10:50:01,413 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 10:50:02,229 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 10:50:55,114 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 10:50:59,300 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 10:53:18,211 - app.tracing - INFO - Trace ID: 20250420105318
+2025-04-20 10:53:18,212 - app.tracing - INFO - Query: I have to assess people for bussiness consultant so give me the assessment for business analyst and mba graduate
+
+2025-04-20 10:53:18,212 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 35}
+2025-04-20 10:53:18,212 - app.tracing - INFO - Vector Search Results:
+2025-04-20 10:53:18,214 - app.tracing - INFO -   1. Financial Professional - Short Form (Score: 0.3988)
+2025-04-20 10:53:18,215 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment (Score: 0.3860)
+2025-04-20 10:53:18,215 - app.tracing - INFO -   3. Apprentice 8.0 Job Focused Assessment (Score: 0.3800)
+2025-04-20 10:53:18,216 - app.tracing - INFO -   4. Accounts Receivable (New) (Score: 0.3241)
+2025-04-20 10:53:18,216 - app.tracing - INFO -   5. Bank Administrative Assistant - Short Form (Score: 0.3066)
+2025-04-20 10:53:18,217 - app.tracing - INFO -   6. Global Skills Development Report (Score: 0.2893)
+2025-04-20 10:53:18,217 - app.tracing - INFO -   7. Entry level Sales 7.1 (Americas) (Score: 0.2847)
+2025-04-20 10:53:18,218 - app.tracing - INFO -   8. Entry level Sales 7.1 (International) (Score: 0.2790)
+2025-04-20 10:53:18,218 - app.tracing - INFO -   9. Accounts Payable (New) (Score: 0.2777)
+2025-04-20 10:53:18,219 - app.tracing - INFO -   10. Insurance Administrative Assistant Solution (Score: 0.2767)
+2025-04-20 10:53:18,219 - app.tracing - INFO -   11. Entry Level Customer Service 7.1 (South Africa) (Score: 0.2717)
+2025-04-20 10:53:18,220 - app.tracing - INFO -   12. Entry Level Sales Sift Out 7.1 (Score: 0.2689)
+2025-04-20 10:53:18,221 - app.tracing - INFO -   13. Entry Level Customer Service 7.1 (International) (Score: 0.2650)
+2025-04-20 10:53:18,222 - app.tracing - INFO -   14. Entry Level Customer Service 7.1 (Americas) (Score: 0.2601)
+2025-04-20 10:53:18,223 - app.tracing - INFO -   15. Industrial - Semi-skilled 7.1 (International) (Score: 0.2445)
+2025-04-20 10:53:18,225 - app.tracing - INFO -   16. ADO.NET (New) (Score: 0.2444)
+2025-04-20 10:53:18,226 - app.tracing - INFO -   17. Entry Level Cashier 7.1 (International) (Score: 0.2405)
+2025-04-20 10:53:18,230 - app.tracing - INFO -   18. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2362)
+2025-04-20 10:53:18,232 - app.tracing - INFO -   19. Entry Level Cashier 7.1 (Americas) (Score: 0.2329)
+2025-04-20 10:53:18,232 - app.tracing - INFO -   20. Cashier Solution (Score: 0.2244)
+2025-04-20 10:53:18,233 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 10:53:18,233 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 10:53:18,234 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 10:53:18,234 - app.tracing - INFO -   3. Apprentice 8.0 Job Focused Assessment
+2025-04-20 10:53:18,235 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 10:53:18,236 - app.tracing - INFO -   5. Bank Administrative Assistant - Short Form
+2025-04-20 10:53:18,240 - app.tracing - INFO -   6. Global Skills Development Report
+2025-04-20 10:53:18,241 - app.tracing - INFO -   7. Entry level Sales 7.1 (Americas)
+2025-04-20 10:53:18,243 - app.tracing - INFO -   8. Entry level Sales 7.1 (International)
+2025-04-20 10:53:18,247 - app.tracing - INFO -   9. Accounts Payable (New)
+2025-04-20 10:53:18,249 - app.tracing - INFO -   10. Insurance Administrative Assistant Solution
+2025-04-20 10:53:18,250 - app.tracing - INFO - Final Recommendations:
+2025-04-20 10:53:18,251 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 10:53:18,255 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 10:53:18,257 - app.tracing - INFO -   3. Apprentice 8.0 Job Focused Assessment
+2025-04-20 10:53:18,257 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 10:53:18,258 - app.tracing - INFO -   5. Bank Administrative Assistant - Short Form
+2025-04-20 10:53:18,259 - app.tracing - INFO -   6. Global Skills Development Report
+2025-04-20 10:53:18,261 - app.tracing - INFO -   7. Entry level Sales 7.1 (Americas)
+2025-04-20 10:53:18,263 - app.tracing - INFO -   8. Entry level Sales 7.1 (International)
+2025-04-20 10:53:18,264 - app.tracing - INFO -   9. Accounts Payable (New)
+2025-04-20 10:53:18,265 - app.tracing - INFO -   10. Insurance Administrative Assistant Solution
+2025-04-20 10:53:18,265 - app.tracing - INFO - ==================================================
+2025-04-20 10:54:01,082 - app.tracing - INFO - Trace ID: 20250420105401
+2025-04-20 10:54:01,086 - app.tracing - INFO - Query: I want an It support Assessment for my company so give me 
+
+
+2025-04-20 10:54:01,091 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 35}
+2025-04-20 10:54:01,098 - app.tracing - INFO - Vector Search Results:
+2025-04-20 10:54:01,106 - app.tracing - INFO -   1. ADO.NET (New) (Score: 0.4043)
+2025-04-20 10:54:01,117 - app.tracing - INFO -   2. .NET Framework 4.5 (Score: 0.3731)
+2025-04-20 10:54:01,122 - app.tracing - INFO -   3. .NET WCF (New) (Score: 0.3724)
+2025-04-20 10:54:01,127 - app.tracing - INFO -   4. Industrial - Semi-skilled 7.1 (International) (Score: 0.3623)
+2025-04-20 10:54:01,130 - app.tracing - INFO -   5. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.3595)
+2025-04-20 10:54:01,132 - app.tracing - INFO -   6. Entry Level Customer Service 7.1 (South Africa) (Score: 0.3486)
+2025-04-20 10:54:01,134 - app.tracing - INFO -   7. Entry Level Customer Service 7.1 (International) (Score: 0.3335)
+2025-04-20 10:54:01,142 - app.tracing - INFO -   8. Entry Level Customer Service 7.1 (Americas) (Score: 0.3308)
+2025-04-20 10:54:01,146 - app.tracing - INFO -   9. Apprentice + 8.0 Job Focused Assessment (Score: 0.3202)
+2025-04-20 10:54:01,154 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment (Score: 0.3123)
+2025-04-20 10:54:01,162 - app.tracing - INFO -   11. Accounts Payable (New) (Score: 0.3037)
+2025-04-20 10:54:01,167 - app.tracing - INFO -   12. Insurance Administrative Assistant Solution (Score: 0.3008)
+2025-04-20 10:54:01,169 - app.tracing - INFO -   13. Accounts Receivable (New) (Score: 0.2896)
+2025-04-20 10:54:01,171 - app.tracing - INFO -   14. .NET MVVM (New) (Score: 0.2728)
+2025-04-20 10:54:01,172 - app.tracing - INFO -   15. Global Skills Development Report (Score: 0.2713)
+2025-04-20 10:54:01,173 - app.tracing - INFO -   16. Entry Level Sales Sift Out 7.1 (Score: 0.2649)
+2025-04-20 10:54:01,174 - app.tracing - INFO -   17. .NET MVC (New) (Score: 0.2639)
+2025-04-20 10:54:01,174 - app.tracing - INFO -   18. Financial Professional - Short Form (Score: 0.2505)
+2025-04-20 10:54:01,175 - app.tracing - INFO -   19. Accounts Payable Simulation (New) (Score: 0.2500)
+2025-04-20 10:54:01,177 - app.tracing - INFO -   20. .NET XAML (New) (Score: 0.2476)
+2025-04-20 10:54:01,186 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 10:54:01,193 - app.tracing - INFO -   1. ADO.NET (New)
+2025-04-20 10:54:01,197 - app.tracing - INFO -   2. .NET Framework 4.5
+2025-04-20 10:54:01,201 - app.tracing - INFO -   3. .NET WCF (New)
+2025-04-20 10:54:01,208 - app.tracing - INFO -   4. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 10:54:01,209 - app.tracing - INFO -   5. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 10:54:01,210 - app.tracing - INFO -   6. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 10:54:01,210 - app.tracing - INFO -   7. Entry Level Customer Service 7.1 (International)
+2025-04-20 10:54:01,211 - app.tracing - INFO -   8. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 10:54:01,211 - app.tracing - INFO -   9. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 10:54:01,212 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 10:54:01,213 - app.tracing - INFO - Final Recommendations:
+2025-04-20 10:54:01,216 - app.tracing - INFO -   1. ADO.NET (New)
+2025-04-20 10:54:01,217 - app.tracing - INFO -   2. .NET Framework 4.5
+2025-04-20 10:54:01,217 - app.tracing - INFO -   3. .NET WCF (New)
+2025-04-20 10:54:01,218 - app.tracing - INFO -   4. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 10:54:01,218 - app.tracing - INFO -   5. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 10:54:01,218 - app.tracing - INFO -   6. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 10:54:01,219 - app.tracing - INFO -   7. Entry Level Customer Service 7.1 (International)
+2025-04-20 10:54:01,219 - app.tracing - INFO -   8. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 10:54:01,220 - app.tracing - INFO -   9. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 10:54:01,220 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 10:54:01,220 - app.tracing - INFO - ==================================================
+2025-04-20 10:54:42,480 - app.tracing - INFO - Trace ID: 20250420105442
+2025-04-20 10:54:42,482 - app.tracing - INFO - Query: I want service assessments for sales exceutive
+
+
+
+2025-04-20 10:54:42,483 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 35}
+2025-04-20 10:54:42,483 - app.tracing - INFO - Vector Search Results:
+2025-04-20 10:54:42,487 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas) (Score: 0.4908)
+2025-04-20 10:54:42,489 - app.tracing - INFO -   2. Entry level Sales 7.1 (International) (Score: 0.4810)
+2025-04-20 10:54:42,489 - app.tracing - INFO -   3. Entry Level Customer Service 7.1 (South Africa) (Score: 0.4400)
+2025-04-20 10:54:42,490 - app.tracing - INFO -   4. Entry Level Customer Service 7.1 (Americas) (Score: 0.4331)
+2025-04-20 10:54:42,490 - app.tracing - INFO -   5. Entry Level Sales Sift Out 7.1 (Score: 0.4278)
+2025-04-20 10:54:42,491 - app.tracing - INFO -   6. Entry Level Customer Service 7.1 (International) (Score: 0.4254)
+2025-04-20 10:54:42,493 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (Americas) (Score: 0.4044)
+2025-04-20 10:54:42,495 - app.tracing - INFO -   8. Entry Level Cashier 7.1 (International) (Score: 0.4032)
+2025-04-20 10:54:42,497 - app.tracing - INFO -   9. Cashier Solution (Score: 0.3907)
+2025-04-20 10:54:42,498 - app.tracing - INFO -   10. Accounts Payable (New) (Score: 0.3811)
+2025-04-20 10:54:42,498 - app.tracing - INFO -   11. Accounts Receivable (New) (Score: 0.3742)
+2025-04-20 10:54:42,499 - app.tracing - INFO -   12. Apprentice 8.0 Job Focused Assessment (Score: 0.3689)
+2025-04-20 10:54:42,499 - app.tracing - INFO -   13. Apprentice + 8.0 Job Focused Assessment (Score: 0.3668)
+2025-04-20 10:54:42,499 - app.tracing - INFO -   14. Bank Administrative Assistant - Short Form (Score: 0.3384)
+2025-04-20 10:54:42,500 - app.tracing - INFO -   15. Accounts Payable Simulation (New) (Score: 0.3353)
+2025-04-20 10:54:42,500 - app.tracing - INFO -   16. Accounts Receivable Simulation (New) (Score: 0.3339)
+2025-04-20 10:54:42,500 - app.tracing - INFO -   17. Insurance Administrative Assistant Solution (Score: 0.3328)
+2025-04-20 10:54:42,501 - app.tracing - INFO -   18. Financial Professional - Short Form (Score: 0.2942)
+2025-04-20 10:54:42,502 - app.tracing - INFO -   19. Global Skills Development Report (Score: 0.2819)
+2025-04-20 10:54:42,505 - app.tracing - INFO -   20. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2804)
+2025-04-20 10:54:42,506 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 10:54:42,507 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 10:54:42,508 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 10:54:42,508 - app.tracing - INFO -   3. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 10:54:42,510 - app.tracing - INFO -   4. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 10:54:42,515 - app.tracing - INFO -   5. Entry Level Sales Sift Out 7.1
+2025-04-20 10:54:42,516 - app.tracing - INFO -   6. Entry Level Customer Service 7.1 (International)
+2025-04-20 10:54:42,516 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (Americas)
+2025-04-20 10:54:42,517 - app.tracing - INFO -   8. Entry Level Cashier 7.1 (International)
+2025-04-20 10:54:42,519 - app.tracing - INFO -   9. Cashier Solution
+2025-04-20 10:54:42,523 - app.tracing - INFO -   10. Accounts Payable (New)
+2025-04-20 10:54:42,529 - app.tracing - INFO - Final Recommendations:
+2025-04-20 10:54:42,532 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 10:54:42,535 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 10:54:42,537 - app.tracing - INFO -   3. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 10:54:42,540 - app.tracing - INFO -   4. Entry Level Customer Service 7.1 (Americas)
+2025-04-20 10:54:42,546 - app.tracing - INFO -   5. Entry Level Sales Sift Out 7.1
+2025-04-20 10:54:42,547 - app.tracing - INFO -   6. Entry Level Customer Service 7.1 (International)
+2025-04-20 10:54:42,548 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (Americas)
+2025-04-20 10:54:42,549 - app.tracing - INFO -   8. Entry Level Cashier 7.1 (International)
+2025-04-20 10:54:42,550 - app.tracing - INFO -   9. Cashier Solution
+2025-04-20 10:54:42,554 - app.tracing - INFO -   10. Accounts Payable (New)
+2025-04-20 10:54:42,555 - app.tracing - INFO - ==================================================
+2025-04-20 10:55:45,730 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 10:55:47,416 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 10:55:55,483 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 10:55:56,493 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 10:58:45,923 - app.tracing - INFO - Trace ID: 20250420105845
+2025-04-20 10:58:45,924 - app.tracing - INFO - Query: I want sale assessments for mba's
+2025-04-20 10:58:45,926 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 25}
+2025-04-20 10:58:45,928 - app.tracing - INFO - Vector Search Results:
+2025-04-20 10:58:45,932 - app.tracing - INFO -   1. Apprentice 8.0 Job Focused Assessment (Score: 0.3942)
+2025-04-20 10:58:45,933 - app.tracing - INFO -   2. Accounts Receivable (New) (Score: 0.3832)
+2025-04-20 10:58:45,934 - app.tracing - INFO -   3. Entry level Sales 7.1 (Americas) (Score: 0.3792)
+2025-04-20 10:58:45,936 - app.tracing - INFO -   4. Entry level Sales 7.1 (International) (Score: 0.3786)
+2025-04-20 10:58:45,937 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.3648)
+2025-04-20 10:58:45,938 - app.tracing - INFO -   6. Entry Level Sales Sift Out 7.1 (Score: 0.3342)
+2025-04-20 10:58:45,940 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (International) (Score: 0.2979)
+2025-04-20 10:58:45,942 - app.tracing - INFO -   8. Entry Level Cashier 7.1 (Americas) (Score: 0.2893)
+2025-04-20 10:58:45,943 - app.tracing - INFO -   9. Accounts Receivable Simulation (New) (Score: 0.2763)
+2025-04-20 10:58:45,944 - app.tracing - INFO -   10. Entry Level Customer Service 7.1 (South Africa) (Score: 0.2685)
+2025-04-20 10:58:45,945 - app.tracing - INFO -   11. Accounts Payable Simulation (New) (Score: 0.2652)
+2025-04-20 10:58:45,945 - app.tracing - INFO -   12. Global Skills Development Report (Score: 0.2635)
+2025-04-20 10:58:45,946 - app.tracing - INFO -   13. ADO.NET (New) (Score: 0.2555)
+2025-04-20 10:58:45,948 - app.tracing - INFO -   14. Entry Level Customer Service 7.1 (International) (Score: 0.2512)
+2025-04-20 10:58:45,949 - app.tracing - INFO -   15. Entry Level Customer Service 7.1 (Americas) (Score: 0.2471)
+2025-04-20 10:58:45,950 - app.tracing - INFO -   16. .NET WPF (New) (Score: 0.2386)
+2025-04-20 10:58:45,950 - app.tracing - INFO -   17. .NET MVVM (New) (Score: 0.2324)
+2025-04-20 10:58:45,950 - app.tracing - INFO -   18. .NET MVC (New) (Score: 0.2320)
+2025-04-20 10:58:45,951 - app.tracing - INFO -   19. .NET XAML (New) (Score: 0.2248)
+2025-04-20 10:58:45,951 - app.tracing - INFO -   20. Industrial - Semi-skilled 7.1 (International) (Score: 0.2165)
+2025-04-20 10:58:45,951 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 10:58:45,952 - app.tracing - INFO -   1. Apprentice 8.0 Job Focused Assessment
+2025-04-20 10:58:45,952 - app.tracing - INFO -   2. Accounts Receivable (New)
+2025-04-20 10:58:45,953 - app.tracing - INFO -   3. Entry level Sales 7.1 (Americas)
+2025-04-20 10:58:45,955 - app.tracing - INFO -   4. Entry level Sales 7.1 (International)
+2025-04-20 10:58:45,956 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 10:58:45,960 - app.tracing - INFO -   6. Entry Level Sales Sift Out 7.1
+2025-04-20 10:58:45,961 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (International)
+2025-04-20 10:58:46,053 - app.tracing - INFO -   8. Entry Level Cashier 7.1 (Americas)
+2025-04-20 10:58:46,079 - app.tracing - INFO -   9. Accounts Receivable Simulation (New)
+2025-04-20 10:58:46,095 - app.tracing - INFO -   10. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 10:58:46,109 - app.tracing - INFO - Final Recommendations:
+2025-04-20 10:58:46,110 - app.tracing - INFO -   1. Apprentice 8.0 Job Focused Assessment
+2025-04-20 10:58:46,111 - app.tracing - INFO -   2. Accounts Receivable (New)
+2025-04-20 10:58:46,111 - app.tracing - INFO -   3. Entry level Sales 7.1 (Americas)
+2025-04-20 10:58:46,112 - app.tracing - INFO -   4. Entry level Sales 7.1 (International)
+2025-04-20 10:58:46,112 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 10:58:46,113 - app.tracing - INFO -   6. Entry Level Sales Sift Out 7.1
+2025-04-20 10:58:46,135 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (International)
+2025-04-20 10:58:46,136 - app.tracing - INFO -   8. Entry Level Cashier 7.1 (Americas)
+2025-04-20 10:58:46,137 - app.tracing - INFO -   9. Accounts Receivable Simulation (New)
+2025-04-20 10:58:46,139 - app.tracing - INFO -   10. Entry Level Customer Service 7.1 (South Africa)
+2025-04-20 10:58:46,139 - app.tracing - INFO - ==================================================
+2025-04-20 10:59:30,299 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 10:59:30,967 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 10:59:39,840 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 10:59:40,949 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:00:02,135 - app.tracing - INFO - Trace ID: 20250420110002
+2025-04-20 11:00:02,135 - app.tracing - INFO - Query: generate me the sales assessments for about 45 min long and it should strictly within 50 min 
+2025-04-20 11:00:02,136 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:00:02,137 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:00:02,138 - app.tracing - INFO -   1. Accounts Receivable Simulation (New) (Score: 0.3274)
+2025-04-20 11:00:02,139 - app.tracing - INFO -   2. Accounts Payable Simulation (New) (Score: 0.3216)
+2025-04-20 11:00:02,140 - app.tracing - INFO -   3. Financial Professional - Short Form (Score: 0.3154)
+2025-04-20 11:00:02,142 - app.tracing - INFO -   4. Entry level Sales 7.1 (International) (Score: 0.3146)
+2025-04-20 11:00:02,143 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.3122)
+2025-04-20 11:00:02,143 - app.tracing - INFO -   6. Entry level Sales 7.1 (Americas) (Score: 0.3109)
+2025-04-20 11:00:02,143 - app.tracing - INFO -   7. Bank Collections Agent - Short Form (Score: 0.3084)
+2025-04-20 11:00:02,144 - app.tracing - INFO -   8. Accounts Receivable (New) (Score: 0.3036)
+2025-04-20 11:00:02,144 - app.tracing - INFO -   9. Manager + 7.0 Solution (Score: 0.2911)
+2025-04-20 11:00:02,144 - app.tracing - INFO -   10. Apprentice + 8.0 Job Focused Assessment (Score: 0.2882)
+2025-04-20 11:00:02,145 - app.tracing - INFO -   11. Branch Manager - Short Form (Score: 0.2788)
+2025-04-20 11:00:02,146 - app.tracing - INFO -   12. Insurance Sales Manager Solution (Score: 0.2649)
+2025-04-20 11:00:02,146 - app.tracing - INFO -   13. Global Skills Development Report (Score: 0.2634)
+2025-04-20 11:00:02,146 - app.tracing - INFO -   14. Entry Level Sales Sift Out 7.1 (Score: 0.2596)
+2025-04-20 11:00:02,147 - app.tracing - INFO -   15. Manager - Short Form (Score: 0.2511)
+2025-04-20 11:00:02,147 - app.tracing - INFO -   16. Apprentice 8.0 Job Focused Assessment (Score: 0.2508)
+2025-04-20 11:00:02,147 - app.tracing - INFO -   17. Industrial Professional and Skilled 7.1 Solution (Score: 0.2332)
+2025-04-20 11:00:02,147 - app.tracing - INFO -   18. Bookkeeping, Accounting, Auditing Clerk Short Form (Score: 0.2311)
+2025-04-20 11:00:02,148 - app.tracing - INFO -   19. Administrative Professional - Short Form (Score: 0.2267)
+2025-04-20 11:00:02,148 - app.tracing - INFO -   20. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.2223)
+2025-04-20 11:00:02,148 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:00:02,149 - app.tracing - INFO -   1. Accounts Receivable Simulation (New)
+2025-04-20 11:00:02,150 - app.tracing - INFO -   2. Accounts Payable Simulation (New)
+2025-04-20 11:00:02,150 - app.tracing - INFO -   3. Financial Professional - Short Form
+2025-04-20 11:00:02,151 - app.tracing - INFO -   4. Entry level Sales 7.1 (International)
+2025-04-20 11:00:02,152 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:00:02,154 - app.tracing - INFO -   6. Entry level Sales 7.1 (Americas)
+2025-04-20 11:00:02,156 - app.tracing - INFO -   7. Bank Collections Agent - Short Form
+2025-04-20 11:00:02,161 - app.tracing - INFO -   8. Accounts Receivable (New)
+2025-04-20 11:00:02,164 - app.tracing - INFO -   9. Manager + 7.0 Solution
+2025-04-20 11:00:02,165 - app.tracing - INFO -   10. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:00:02,165 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:00:02,166 - app.tracing - INFO -   1. Accounts Receivable Simulation (New)
+2025-04-20 11:00:02,173 - app.tracing - INFO -   2. Accounts Payable Simulation (New)
+2025-04-20 11:00:02,180 - app.tracing - INFO -   3. Financial Professional - Short Form
+2025-04-20 11:00:02,185 - app.tracing - INFO -   4. Entry level Sales 7.1 (International)
+2025-04-20 11:00:02,190 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:00:02,192 - app.tracing - INFO -   6. Entry level Sales 7.1 (Americas)
+2025-04-20 11:00:02,193 - app.tracing - INFO -   7. Bank Collections Agent - Short Form
+2025-04-20 11:00:02,194 - app.tracing - INFO -   8. Accounts Receivable (New)
+2025-04-20 11:00:02,198 - app.tracing - INFO -   9. Manager + 7.0 Solution
+2025-04-20 11:00:02,200 - app.tracing - INFO -   10. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:00:02,202 - app.tracing - INFO - ==================================================
+2025-04-20 11:01:02,333 - app.tracing - INFO - Trace ID: 20250420110102
+2025-04-20 11:01:02,333 - app.tracing - INFO - Query: I need sales assessments for under 30 minutes 
+
+2025-04-20 11:01:02,333 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:01:02,334 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:01:02,335 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas) (Score: 0.3714)
+2025-04-20 11:01:02,335 - app.tracing - INFO -   2. Accounts Receivable (New) (Score: 0.3662)
+2025-04-20 11:01:02,336 - app.tracing - INFO -   3. Entry level Sales 7.1 (International) (Score: 0.3662)
+2025-04-20 11:01:02,336 - app.tracing - INFO -   4. Accounts Payable (New) (Score: 0.3530)
+2025-04-20 11:01:02,336 - app.tracing - INFO -   5. Bank Collections Agent - Short Form (Score: 0.3364)
+2025-04-20 11:01:02,336 - app.tracing - INFO -   6. Accounts Payable Simulation (New) (Score: 0.3308)
+2025-04-20 11:01:02,337 - app.tracing - INFO -   7. Accounts Receivable Simulation (New) (Score: 0.3271)
+2025-04-20 11:01:02,337 - app.tracing - INFO -   8. Apprentice + 8.0 Job Focused Assessment (Score: 0.3239)
+2025-04-20 11:01:02,338 - app.tracing - INFO -   9. Manager + 7.0 Solution (Score: 0.3023)
+2025-04-20 11:01:02,338 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment (Score: 0.2997)
+2025-04-20 11:01:02,338 - app.tracing - INFO -   11. Entry Level Sales Sift Out 7.1 (Score: 0.2986)
+2025-04-20 11:01:02,338 - app.tracing - INFO -   12. Insurance Sales Manager Solution (Score: 0.2982)
+2025-04-20 11:01:02,339 - app.tracing - INFO -   13. Financial Professional - Short Form (Score: 0.2965)
+2025-04-20 11:01:02,339 - app.tracing - INFO -   14. Bookkeeping, Accounting, Auditing Clerk Short Form (Score: 0.2857)
+2025-04-20 11:01:02,339 - app.tracing - INFO -   15. Entry Level Cashier 7.1 (Americas) (Score: 0.2678)
+2025-04-20 11:01:02,340 - app.tracing - INFO -   16. Global Skills Development Report (Score: 0.2648)
+2025-04-20 11:01:02,340 - app.tracing - INFO -   17. Cashier Solution (Score: 0.2613)
+2025-04-20 11:01:02,340 - app.tracing - INFO -   18. Entry Level Cashier 7.1 (International) (Score: 0.2525)
+2025-04-20 11:01:02,340 - app.tracing - INFO -   19. Industrial Professional and Skilled 7.1 Solution (Score: 0.2374)
+2025-04-20 11:01:02,341 - app.tracing - INFO -   20. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.2308)
+2025-04-20 11:01:02,341 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:01:02,342 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:01:02,342 - app.tracing - INFO -   2. Accounts Receivable (New)
+2025-04-20 11:01:02,342 - app.tracing - INFO -   3. Entry level Sales 7.1 (International)
+2025-04-20 11:01:02,343 - app.tracing - INFO -   4. Accounts Payable (New)
+2025-04-20 11:01:02,343 - app.tracing - INFO -   5. Bank Collections Agent - Short Form
+2025-04-20 11:01:02,344 - app.tracing - INFO -   6. Accounts Payable Simulation (New)
+2025-04-20 11:01:02,344 - app.tracing - INFO -   7. Accounts Receivable Simulation (New)
+2025-04-20 11:01:02,345 - app.tracing - INFO -   8. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:01:02,345 - app.tracing - INFO -   9. Manager + 7.0 Solution
+2025-04-20 11:01:02,346 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:01:02,346 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:01:02,346 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:01:02,347 - app.tracing - INFO -   2. Accounts Receivable (New)
+2025-04-20 11:01:02,347 - app.tracing - INFO -   3. Entry level Sales 7.1 (International)
+2025-04-20 11:01:02,347 - app.tracing - INFO -   4. Accounts Payable (New)
+2025-04-20 11:01:02,348 - app.tracing - INFO -   5. Bank Collections Agent - Short Form
+2025-04-20 11:01:02,348 - app.tracing - INFO -   6. Accounts Payable Simulation (New)
+2025-04-20 11:01:02,348 - app.tracing - INFO -   7. Accounts Receivable Simulation (New)
+2025-04-20 11:01:02,349 - app.tracing - INFO -   8. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:01:02,349 - app.tracing - INFO -   9. Manager + 7.0 Solution
+2025-04-20 11:01:02,349 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:01:02,349 - app.tracing - INFO - ==================================================
+2025-04-20 11:07:03,819 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:07:04,527 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:07:41,808 - app.tracing - INFO - Trace ID: 20250420110741
+2025-04-20 11:07:41,809 - app.tracing - INFO - Query: I need 3 assessments for sale exceutive for duration of 40 minutes
+2025-04-20 11:07:41,809 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:07:41,809 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:07:41,810 - app.tracing - INFO -   1. Accounts Receivable (New) (Score: 0.4231)
+2025-04-20 11:07:41,811 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment (Score: 0.3924)
+2025-04-20 11:07:41,811 - app.tracing - INFO -   3. Accounts Payable (New) (Score: 0.3824)
+2025-04-20 11:07:41,811 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment (Score: 0.3494)
+2025-04-20 11:07:41,811 - app.tracing - INFO -   5. Bank Collections Agent - Short Form (Score: 0.3308)
+2025-04-20 11:07:41,817 - app.tracing - INFO -   6. Manager + 7.0 Solution (Score: 0.3277)
+2025-04-20 11:07:41,818 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.3258)
+2025-04-20 11:07:41,819 - app.tracing - INFO -   8. Global Skills Development Report (Score: 0.2872)
+2025-04-20 11:07:41,824 - app.tracing - INFO -   9. Industrial Professional and Skilled 7.1 Solution (Score: 0.2811)
+2025-04-20 11:07:41,825 - app.tracing - INFO -   10. Branch Manager - Short Form (Score: 0.2777)
+2025-04-20 11:07:41,826 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:07:41,832 - app.tracing - INFO -   1. Accounts Receivable (New)
+2025-04-20 11:07:41,833 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:07:41,833 - app.tracing - INFO -   3. Accounts Payable (New)
+2025-04-20 11:07:41,834 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:07:41,834 - app.tracing - INFO -   5. Bank Collections Agent - Short Form
+2025-04-20 11:07:41,834 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:07:41,835 - app.tracing - INFO -   1. Accounts Receivable (New)
+2025-04-20 11:07:41,835 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:07:41,835 - app.tracing - INFO -   3. Accounts Payable (New)
+2025-04-20 11:07:41,836 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:07:41,836 - app.tracing - INFO -   5. Bank Collections Agent - Short Form
+2025-04-20 11:07:41,836 - app.tracing - INFO - ==================================================
+2025-04-20 11:09:41,841 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:09:43,301 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:11:09,243 - app.tracing - INFO - Trace ID: 20250420111109
+2025-04-20 11:11:09,244 - app.tracing - INFO - Query: sales 
+2025-04-20 11:11:09,244 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:11:09,244 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:11:09,245 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas) (Score: 0.6001)
+2025-04-20 11:11:09,246 - app.tracing - INFO -   2. Entry level Sales 7.1 (International) (Score: 0.5612)
+2025-04-20 11:11:09,247 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1 (Score: 0.5251)
+2025-04-20 11:11:09,247 - app.tracing - INFO -   4. Insurance Sales Manager Solution (Score: 0.3620)
+2025-04-20 11:11:09,247 - app.tracing - INFO -   5. Event Sales Manager Solution (Score: 0.3402)
+2025-04-20 11:11:09,248 - app.tracing - INFO -   6. Cashier Solution (Score: 0.3163)
+2025-04-20 11:11:09,248 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (Americas) (Score: 0.3094)
+2025-04-20 11:11:09,248 - app.tracing - INFO -   8. Entry Level Customer Service 7.1 (Americas) (Score: 0.2991)
+2025-04-20 11:11:09,248 - app.tracing - INFO -   9. Entry Level Cashier 7.1 (International) (Score: 0.2913)
+2025-04-20 11:11:09,249 - app.tracing - INFO -   10. Entry Level Customer Service 7.1 (South Africa) (Score: 0.2859)
+2025-04-20 11:11:09,249 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:11:09,249 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:11:09,250 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 11:11:09,250 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 11:11:09,250 - app.tracing - INFO -   4. Insurance Sales Manager Solution
+2025-04-20 11:11:09,251 - app.tracing - INFO -   5. Event Sales Manager Solution
+2025-04-20 11:11:09,251 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:11:09,252 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:11:09,252 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 11:11:09,253 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 11:11:09,253 - app.tracing - INFO -   4. Insurance Sales Manager Solution
+2025-04-20 11:11:09,254 - app.tracing - INFO -   5. Event Sales Manager Solution
+2025-04-20 11:11:09,255 - app.tracing - INFO - ==================================================
+2025-04-20 11:13:29,569 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:13:30,196 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:15:42,554 - app.tracing - INFO - Trace ID: 20250420111542
+2025-04-20 11:15:42,555 - app.tracing - INFO - Query: I need 7 assessments under 30 minutes
+2025-04-20 11:15:42,555 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:15:42,555 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:15:42,555 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4255)
+2025-04-20 11:15:42,556 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.3867)
+2025-04-20 11:15:42,556 - app.tracing - INFO -   3. Accounts Receivable (New) (Score: 0.3785)
+2025-04-20 11:15:42,556 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.3361)
+2025-04-20 11:15:42,556 - app.tracing - INFO -   5. Manager + 7.0 Solution (Score: 0.3288)
+2025-04-20 11:15:42,557 - app.tracing - INFO -   6. Accounts Payable (New) (Score: 0.3107)
+2025-04-20 11:15:42,557 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.2891)
+2025-04-20 11:15:42,557 - app.tracing - INFO -   8. Industrial Professional and Skilled 7.1 Solution (Score: 0.2858)
+2025-04-20 11:15:42,557 - app.tracing - INFO -   9. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.2733)
+2025-04-20 11:15:42,558 - app.tracing - INFO -   10. .NET MVVM (New) (Score: 0.2644)
+2025-04-20 11:15:42,558 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:15:42,558 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:15:42,559 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:15:42,560 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:15:42,560 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:15:42,561 - app.tracing - INFO -   5. Manager + 7.0 Solution
+2025-04-20 11:15:42,561 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:15:42,561 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:15:42,562 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:15:42,562 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:15:42,563 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:15:42,563 - app.tracing - INFO -   5. Manager + 7.0 Solution
+2025-04-20 11:15:42,563 - app.tracing - INFO - ==================================================
+2025-04-20 11:15:45,721 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:15:46,222 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:15:59,832 - app.tracing - INFO - Trace ID: 20250420111559
+2025-04-20 11:15:59,836 - app.tracing - INFO - Query: 5 assessments under 30 minutes
+2025-04-20 11:15:59,838 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:15:59,838 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:15:59,840 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4087)
+2025-04-20 11:15:59,841 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.3671)
+2025-04-20 11:15:59,842 - app.tracing - INFO -   3. Accounts Receivable (New) (Score: 0.3291)
+2025-04-20 11:15:59,842 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.2788)
+2025-04-20 11:15:59,843 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.2590)
+2025-04-20 11:15:59,843 - app.tracing - INFO -   6. Manager + 7.0 Solution (Score: 0.2285)
+2025-04-20 11:15:59,844 - app.tracing - INFO -   7. .NET MVVM (New) (Score: 0.2258)
+2025-04-20 11:15:59,844 - app.tracing - INFO -   8. Financial Professional - Short Form (Score: 0.2255)
+2025-04-20 11:15:59,844 - app.tracing - INFO -   9. .NET MVC (New) (Score: 0.2139)
+2025-04-20 11:15:59,849 - app.tracing - INFO -   10. .NET XAML (New) (Score: 0.1915)
+2025-04-20 11:15:59,849 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:15:59,850 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:15:59,851 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:15:59,851 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:15:59,853 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:15:59,853 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:15:59,854 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:15:59,856 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:15:59,856 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:15:59,857 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:15:59,857 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:15:59,858 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:15:59,858 - app.tracing - INFO - ==================================================
+2025-04-20 11:17:08,681 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:17:10,317 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:19:32,073 - app.tracing - INFO - Trace ID: 20250420111932
+2025-04-20 11:19:32,074 - app.tracing - INFO - Query:  8 assessments under 30 minutes
+2025-04-20 11:19:32,074 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:19:32,074 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:19:32,075 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4460)
+2025-04-20 11:19:32,077 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.4101)
+2025-04-20 11:19:32,078 - app.tracing - INFO -   3. Accounts Receivable (New) (Score: 0.3241)
+2025-04-20 11:19:32,079 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.2799)
+2025-04-20 11:19:32,079 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.2516)
+2025-04-20 11:19:32,079 - app.tracing - INFO -   6. Manager + 7.0 Solution (Score: 0.2301)
+2025-04-20 11:19:32,079 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.2162)
+2025-04-20 11:19:32,080 - app.tracing - INFO -   8. .NET MVVM (New) (Score: 0.2151)
+2025-04-20 11:19:32,080 - app.tracing - INFO -   9. .NET MVC (New) (Score: 0.2117)
+2025-04-20 11:19:32,080 - app.tracing - INFO -   10. Accounts Receivable Simulation (New) (Score: 0.1955)
+2025-04-20 11:19:32,080 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:19:32,081 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:19:32,081 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:19:32,081 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:19:32,081 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:19:32,081 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:19:32,081 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:19:32,082 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:19:32,082 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:19:32,083 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:19:32,083 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:19:32,083 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:19:32,084 - app.tracing - INFO - ==================================================
+2025-04-20 11:19:36,464 - app.tracing - INFO - Trace ID: 20250420111936
+2025-04-20 11:19:36,464 - app.tracing - INFO - Query:  8 assessments under 30 minutes
+2025-04-20 11:19:36,464 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:19:36,464 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:19:36,465 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4460)
+2025-04-20 11:19:36,465 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.4101)
+2025-04-20 11:19:36,466 - app.tracing - INFO -   3. Accounts Receivable (New) (Score: 0.3241)
+2025-04-20 11:19:36,466 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.2799)
+2025-04-20 11:19:36,467 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.2516)
+2025-04-20 11:19:36,467 - app.tracing - INFO -   6. Manager + 7.0 Solution (Score: 0.2301)
+2025-04-20 11:19:36,468 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.2162)
+2025-04-20 11:19:36,468 - app.tracing - INFO -   8. .NET MVVM (New) (Score: 0.2151)
+2025-04-20 11:19:36,469 - app.tracing - INFO -   9. .NET MVC (New) (Score: 0.2117)
+2025-04-20 11:19:36,469 - app.tracing - INFO -   10. Accounts Receivable Simulation (New) (Score: 0.1955)
+2025-04-20 11:19:36,470 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:19:36,471 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:19:36,471 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:19:36,471 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:19:36,471 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:19:36,472 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:19:36,472 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:19:36,472 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:19:36,472 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:19:36,473 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:19:36,473 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:19:36,473 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:19:36,473 - app.tracing - INFO - ==================================================
+2025-04-20 11:25:21,630 - app.tracing - INFO - Trace ID: 20250420112521
+2025-04-20 11:25:21,636 - app.tracing - INFO - Query:  8 assessments under 30 minutes
+2025-04-20 11:25:21,637 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:25:21,637 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:25:21,643 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4460)
+2025-04-20 11:25:21,645 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.4101)
+2025-04-20 11:25:21,650 - app.tracing - INFO -   3. Accounts Receivable (New) (Score: 0.3241)
+2025-04-20 11:25:21,650 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.2799)
+2025-04-20 11:25:21,651 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.2516)
+2025-04-20 11:25:21,651 - app.tracing - INFO -   6. Manager + 7.0 Solution (Score: 0.2301)
+2025-04-20 11:25:21,651 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.2162)
+2025-04-20 11:25:21,652 - app.tracing - INFO -   8. .NET MVVM (New) (Score: 0.2151)
+2025-04-20 11:25:21,653 - app.tracing - INFO -   9. .NET MVC (New) (Score: 0.2117)
+2025-04-20 11:25:21,653 - app.tracing - INFO -   10. Accounts Receivable Simulation (New) (Score: 0.1955)
+2025-04-20 11:25:21,653 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:25:21,655 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:25:21,656 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:25:21,656 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:25:21,656 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:25:21,657 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:25:21,657 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:25:21,658 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:25:21,658 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:25:21,658 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:25:21,659 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:25:21,659 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:25:21,659 - app.tracing - INFO - ==================================================
+2025-04-20 11:25:32,462 - app.tracing - INFO - Trace ID: 20250420112532
+2025-04-20 11:25:32,463 - app.tracing - INFO - Query: sales 
+2025-04-20 11:25:32,463 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:25:32,464 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:25:32,464 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas) (Score: 0.6001)
+2025-04-20 11:25:32,465 - app.tracing - INFO -   2. Entry level Sales 7.1 (International) (Score: 0.5612)
+2025-04-20 11:25:32,465 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1 (Score: 0.5251)
+2025-04-20 11:25:32,465 - app.tracing - INFO -   4. Insurance Sales Manager Solution (Score: 0.3620)
+2025-04-20 11:25:32,466 - app.tracing - INFO -   5. Event Sales Manager Solution (Score: 0.3402)
+2025-04-20 11:25:32,466 - app.tracing - INFO -   6. Cashier Solution (Score: 0.3163)
+2025-04-20 11:25:32,467 - app.tracing - INFO -   7. Entry Level Cashier 7.1 (Americas) (Score: 0.3094)
+2025-04-20 11:25:32,467 - app.tracing - INFO -   8. Entry Level Customer Service 7.1 (Americas) (Score: 0.2991)
+2025-04-20 11:25:32,468 - app.tracing - INFO -   9. Entry Level Cashier 7.1 (International) (Score: 0.2913)
+2025-04-20 11:25:32,468 - app.tracing - INFO -   10. Entry Level Customer Service 7.1 (South Africa) (Score: 0.2859)
+2025-04-20 11:25:32,468 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:25:32,469 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:25:32,470 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 11:25:32,471 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 11:25:32,471 - app.tracing - INFO -   4. Insurance Sales Manager Solution
+2025-04-20 11:25:32,471 - app.tracing - INFO -   5. Event Sales Manager Solution
+2025-04-20 11:25:32,472 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:25:32,472 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:25:32,472 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 11:25:32,473 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 11:25:32,473 - app.tracing - INFO -   4. Insurance Sales Manager Solution
+2025-04-20 11:25:32,474 - app.tracing - INFO -   5. Event Sales Manager Solution
+2025-04-20 11:25:32,474 - app.tracing - INFO - ==================================================
+2025-04-20 11:27:17,775 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:27:19,159 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:28:37,448 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:28:38,331 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:29:14,146 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:29:14,757 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:30:12,054 - app.tracing - INFO - Trace ID: 20250420113012
+2025-04-20 11:30:12,055 - app.tracing - INFO - Query: top 3 tests for marketing role
+2025-04-20 11:30:12,058 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None, 'num_assessments': 5}
+2025-04-20 11:30:12,063 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:30:12,068 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas) (Score: 0.4276)
+2025-04-20 11:30:12,068 - app.tracing - INFO -   2. Manager + 7.0 Solution (Score: 0.4111)
+2025-04-20 11:30:12,070 - app.tracing - INFO -   3. Accounts Payable (New) (Score: 0.4105)
+2025-04-20 11:30:12,071 - app.tracing - INFO -   4. ADO.NET (New) (Score: 0.3977)
+2025-04-20 11:30:12,072 - app.tracing - INFO -   5. Branch Manager - Short Form (Score: 0.3972)
+2025-04-20 11:30:12,080 - app.tracing - INFO -   6. Entry level Sales 7.1 (International) (Score: 0.3938)
+2025-04-20 11:30:12,095 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.3878)
+2025-04-20 11:30:12,097 - app.tracing - INFO -   8. Accounts Receivable (New) (Score: 0.3800)
+2025-04-20 11:30:12,101 - app.tracing - INFO -   9. Entry Level Sales Sift Out 7.1 (Score: 0.3787)
+2025-04-20 11:30:12,102 - app.tracing - INFO -   10. Entry Level Customer Service 7.1 (Americas) (Score: 0.3462)
+2025-04-20 11:30:12,103 - app.tracing - INFO -   11. Entry Level Customer Service 7.1 (International) (Score: 0.3371)
+2025-04-20 11:30:12,103 - app.tracing - INFO -   12. Entry Level Customer Service 7.1 (South Africa) (Score: 0.3357)
+2025-04-20 11:30:12,104 - app.tracing - INFO -   13. .NET WCF (New) (Score: 0.3308)
+2025-04-20 11:30:12,104 - app.tracing - INFO -   14. Apprentice + 8.0 Job Focused Assessment (Score: 0.3270)
+2025-04-20 11:30:12,104 - app.tracing - INFO -   15. Agency Manager Solution (Score: 0.3243)
+2025-04-20 11:30:12,105 - app.tracing - INFO -   16. .NET MVVM (New) (Score: 0.3139)
+2025-04-20 11:30:12,108 - app.tracing - INFO -   17. Bank Collections Agent - Short Form (Score: 0.3122)
+2025-04-20 11:30:12,112 - app.tracing - INFO -   18. Account Manager Solution (Score: 0.3113)
+2025-04-20 11:30:12,113 - app.tracing - INFO -   19. Accounts Payable Simulation (New) (Score: 0.3086)
+2025-04-20 11:30:12,113 - app.tracing - INFO -   20. Insurance Sales Manager Solution (Score: 0.3079)
+2025-04-20 11:30:12,114 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:30:12,114 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:30:12,117 - app.tracing - INFO -   2. Manager + 7.0 Solution
+2025-04-20 11:30:12,118 - app.tracing - INFO -   3. Accounts Payable (New)
+2025-04-20 11:30:12,118 - app.tracing - INFO -   4. ADO.NET (New)
+2025-04-20 11:30:12,119 - app.tracing - INFO -   5. Branch Manager - Short Form
+2025-04-20 11:30:12,119 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:30:12,119 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:30:12,120 - app.tracing - INFO -   2. Manager + 7.0 Solution
+2025-04-20 11:30:12,121 - app.tracing - INFO -   3. Accounts Payable (New)
+2025-04-20 11:30:12,122 - app.tracing - INFO -   4. ADO.NET (New)
+2025-04-20 11:30:12,122 - app.tracing - INFO -   5. Branch Manager - Short Form
+2025-04-20 11:30:12,122 - app.tracing - INFO - ==================================================
+2025-04-20 11:31:07,510 - app.tracing - INFO - Trace ID: 20250420113107
+2025-04-20 11:31:07,511 - app.tracing - INFO - Query: I need 3 assessments for sales and manager roles of about 30 minutes
+2025-04-20 11:31:07,511 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None, 'num_assessments': 5}
+2025-04-20 11:31:07,511 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:31:07,513 - app.tracing - INFO -   1. Manager + 7.0 Solution (Score: 0.5182)
+2025-04-20 11:31:07,515 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment (Score: 0.4859)
+2025-04-20 11:31:07,516 - app.tracing - INFO -   3. Accounts Receivable (New) (Score: 0.4761)
+2025-04-20 11:31:07,516 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment (Score: 0.4625)
+2025-04-20 11:31:07,517 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.4348)
+2025-04-20 11:31:07,517 - app.tracing - INFO -   6. Branch Manager - Short Form (Score: 0.4275)
+2025-04-20 11:31:07,518 - app.tracing - INFO -   7. Bank Collections Agent - Short Form (Score: 0.4108)
+2025-04-20 11:31:07,520 - app.tracing - INFO -   8. Financial Professional - Short Form (Score: 0.4051)
+2025-04-20 11:31:07,520 - app.tracing - INFO -   9. Global Skills Development Report (Score: 0.3970)
+2025-04-20 11:31:07,521 - app.tracing - INFO -   10. Insurance Sales Manager Solution (Score: 0.3956)
+2025-04-20 11:31:07,522 - app.tracing - INFO -   11. Manager - Short Form (Score: 0.3839)
+2025-04-20 11:31:07,523 - app.tracing - INFO -   12. Industrial Professional and Skilled 7.1 Solution (Score: 0.3729)
+2025-04-20 11:31:07,523 - app.tracing - INFO -   13. Bank Operations Supervisor - Short Form (Score: 0.3710)
+2025-04-20 11:31:07,525 - app.tracing - INFO -   14. Account Manager Solution (Score: 0.3693)
+2025-04-20 11:31:07,525 - app.tracing - INFO -   15. Entry level Sales 7.1 (Americas) (Score: 0.3665)
+2025-04-20 11:31:07,526 - app.tracing - INFO -   16. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.3663)
+2025-04-20 11:31:07,527 - app.tracing - INFO -   17. Agency Manager Solution (Score: 0.3609)
+2025-04-20 11:31:07,528 - app.tracing - INFO -   18. Entry level Sales 7.1 (International) (Score: 0.3499)
+2025-04-20 11:31:07,528 - app.tracing - INFO -   19. Insurance Account Manager Solution (Score: 0.3367)
+2025-04-20 11:31:07,529 - app.tracing - INFO -   20. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.3366)
+2025-04-20 11:31:07,529 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:31:07,529 - app.tracing - INFO -   1. Manager + 7.0 Solution
+2025-04-20 11:31:07,532 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:31:07,534 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:31:07,534 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:31:07,535 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:31:07,535 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:31:07,536 - app.tracing - INFO -   1. Manager + 7.0 Solution
+2025-04-20 11:31:07,536 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:31:07,537 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:31:07,537 - app.tracing - INFO -   4. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:31:07,539 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:31:07,540 - app.tracing - INFO - ==================================================
+2025-04-20 11:31:33,243 - app.tracing - INFO - Trace ID: 20250420113133
+2025-04-20 11:31:33,243 - app.tracing - INFO - Query: 8 assessments under 30 minutes
+2025-04-20 11:31:33,243 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None, 'num_assessments': 5}
+2025-04-20 11:31:33,243 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:31:33,245 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4460)
+2025-04-20 11:31:33,246 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.4101)
+2025-04-20 11:31:33,247 - app.tracing - INFO -   3. Accounts Receivable (New) (Score: 0.3241)
+2025-04-20 11:31:33,247 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.2799)
+2025-04-20 11:31:33,248 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.2516)
+2025-04-20 11:31:33,248 - app.tracing - INFO -   6. Manager + 7.0 Solution (Score: 0.2301)
+2025-04-20 11:31:33,249 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.2162)
+2025-04-20 11:31:33,249 - app.tracing - INFO -   8. .NET MVVM (New) (Score: 0.2151)
+2025-04-20 11:31:33,249 - app.tracing - INFO -   9. .NET MVC (New) (Score: 0.2117)
+2025-04-20 11:31:33,250 - app.tracing - INFO -   10. Accounts Receivable Simulation (New) (Score: 0.1955)
+2025-04-20 11:31:33,250 - app.tracing - INFO -   11. Bank Collections Agent - Short Form (Score: 0.1899)
+2025-04-20 11:31:33,250 - app.tracing - INFO -   12. .NET XAML (New) (Score: 0.1850)
+2025-04-20 11:31:33,251 - app.tracing - INFO -   13. Industrial Professional and Skilled 7.1 Solution (Score: 0.1832)
+2025-04-20 11:31:33,251 - app.tracing - INFO -   14. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.1720)
+2025-04-20 11:31:33,251 - app.tracing - INFO -   15. Accounts Payable Simulation (New) (Score: 0.1679)
+2025-04-20 11:31:33,251 - app.tracing - INFO -   16. Administrative Professional - Short Form (Score: 0.1578)
+2025-04-20 11:31:33,252 - app.tracing - INFO -   17. Manager - Short Form (Score: 0.1441)
+2025-04-20 11:31:33,252 - app.tracing - INFO -   18. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.1416)
+2025-04-20 11:31:33,252 - app.tracing - INFO -   19. Account Manager Solution (Score: 0.1388)
+2025-04-20 11:31:33,252 - app.tracing - INFO -   20. .NET Framework 4.5 (Score: 0.1384)
+2025-04-20 11:31:33,253 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:31:33,253 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:31:33,254 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:31:33,254 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:31:33,257 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:31:33,258 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:31:33,258 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:31:33,258 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:31:33,258 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:31:33,259 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:31:33,259 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:31:33,259 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:31:33,259 - app.tracing - INFO - ==================================================
+2025-04-20 11:31:48,623 - app.tracing - INFO - Trace ID: 20250420113148
+2025-04-20 11:31:48,623 - app.tracing - INFO - Query: 8 assessments under 45 minutes
+2025-04-20 11:31:48,623 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None, 'num_assessments': 5}
+2025-04-20 11:31:48,623 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:31:48,624 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4338)
+2025-04-20 11:31:48,624 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.3908)
+2025-04-20 11:31:48,625 - app.tracing - INFO -   3. Accounts Receivable (New) (Score: 0.3068)
+2025-04-20 11:31:48,625 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.2655)
+2025-04-20 11:31:48,625 - app.tracing - INFO -   5. Manager + 7.0 Solution (Score: 0.2478)
+2025-04-20 11:31:48,625 - app.tracing - INFO -   6. Accounts Payable (New) (Score: 0.2382)
+2025-04-20 11:31:48,626 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.2189)
+2025-04-20 11:31:48,626 - app.tracing - INFO -   8. .NET MVVM (New) (Score: 0.2082)
+2025-04-20 11:31:48,626 - app.tracing - INFO -   9. Accounts Receivable Simulation (New) (Score: 0.1957)
+2025-04-20 11:31:48,626 - app.tracing - INFO -   10. .NET MVC (New) (Score: 0.1925)
+2025-04-20 11:31:48,627 - app.tracing - INFO -   11. Bank Collections Agent - Short Form (Score: 0.1897)
+2025-04-20 11:31:48,627 - app.tracing - INFO -   12. Industrial Professional and Skilled 7.1 Solution (Score: 0.1887)
+2025-04-20 11:31:48,627 - app.tracing - INFO -   13. .NET XAML (New) (Score: 0.1788)
+2025-04-20 11:31:48,627 - app.tracing - INFO -   14. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.1768)
+2025-04-20 11:31:48,628 - app.tracing - INFO -   15. Manager - Short Form (Score: 0.1760)
+2025-04-20 11:31:48,628 - app.tracing - INFO -   16. Accounts Payable Simulation (New) (Score: 0.1615)
+2025-04-20 11:31:48,628 - app.tracing - INFO -   17. Executive - Short Form (Score: 0.1517)
+2025-04-20 11:31:48,628 - app.tracing - INFO -   18. Branch Manager - Short Form (Score: 0.1513)
+2025-04-20 11:31:48,629 - app.tracing - INFO -   19. Administrative Professional - Short Form (Score: 0.1512)
+2025-04-20 11:31:48,629 - app.tracing - INFO -   20. Account Manager Solution (Score: 0.1504)
+2025-04-20 11:31:48,629 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:31:48,630 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:31:48,630 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:31:48,631 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:31:48,631 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:31:48,631 - app.tracing - INFO -   5. Manager + 7.0 Solution
+2025-04-20 11:31:48,632 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:31:48,632 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:31:48,633 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:31:48,633 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:31:48,633 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:31:48,633 - app.tracing - INFO -   5. Manager + 7.0 Solution
+2025-04-20 11:31:48,633 - app.tracing - INFO - ==================================================
+2025-04-20 11:32:00,884 - app.tracing - INFO - Trace ID: 20250420113200
+2025-04-20 11:32:00,885 - app.tracing - INFO - Query: 8 assessments under 20 minutes
+2025-04-20 11:32:00,885 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None, 'num_assessments': 5}
+2025-04-20 11:32:00,890 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:32:00,892 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4482)
+2025-04-20 11:32:00,893 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment (Score: 0.4078)
+2025-04-20 11:32:00,894 - app.tracing - INFO -   3. Accounts Receivable (New) (Score: 0.3274)
+2025-04-20 11:32:00,895 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.2931)
+2025-04-20 11:32:00,899 - app.tracing - INFO -   5. Manager + 7.0 Solution (Score: 0.2596)
+2025-04-20 11:32:00,901 - app.tracing - INFO -   6. Accounts Payable (New) (Score: 0.2505)
+2025-04-20 11:32:00,903 - app.tracing - INFO -   7. .NET MVVM (New) (Score: 0.2214)
+2025-04-20 11:32:00,907 - app.tracing - INFO -   8. Financial Professional - Short Form (Score: 0.2108)
+2025-04-20 11:32:00,909 - app.tracing - INFO -   9. Accounts Receivable Simulation (New) (Score: 0.2057)
+2025-04-20 11:32:00,911 - app.tracing - INFO -   10. .NET MVC (New) (Score: 0.2047)
+2025-04-20 11:32:00,911 - app.tracing - INFO -   11. .NET XAML (New) (Score: 0.1976)
+2025-04-20 11:32:00,912 - app.tracing - INFO -   12. Manager - Short Form (Score: 0.1895)
+2025-04-20 11:32:00,912 - app.tracing - INFO -   13. Bank Collections Agent - Short Form (Score: 0.1860)
+2025-04-20 11:32:00,915 - app.tracing - INFO -   14. Industrial Professional and Skilled 7.1 Solution (Score: 0.1818)
+2025-04-20 11:32:00,916 - app.tracing - INFO -   15. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.1708)
+2025-04-20 11:32:00,917 - app.tracing - INFO -   16. Accounts Payable Simulation (New) (Score: 0.1680)
+2025-04-20 11:32:00,918 - app.tracing - INFO -   17. Account Manager Solution (Score: 0.1583)
+2025-04-20 11:32:00,918 - app.tracing - INFO -   18. Branch Manager - Short Form (Score: 0.1528)
+2025-04-20 11:32:00,920 - app.tracing - INFO -   19. ADO.NET (New) (Score: 0.1479)
+2025-04-20 11:32:00,924 - app.tracing - INFO -   20. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.1475)
+2025-04-20 11:32:00,925 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:32:00,926 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:32:00,927 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:32:00,927 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:32:00,927 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:32:00,928 - app.tracing - INFO -   5. Manager + 7.0 Solution
+2025-04-20 11:32:00,929 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:32:00,933 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:32:00,934 - app.tracing - INFO -   2. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:32:00,936 - app.tracing - INFO -   3. Accounts Receivable (New)
+2025-04-20 11:32:00,941 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:32:00,944 - app.tracing - INFO -   5. Manager + 7.0 Solution
+2025-04-20 11:32:00,945 - app.tracing - INFO - ==================================================
+2025-04-20 11:32:05,427 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:32:06,772 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:32:45,041 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:32:45,522 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:33:10,259 - app.tracing - INFO - Trace ID: 20250420113310
+2025-04-20 11:33:10,259 - app.tracing - INFO - Query: generate me assessments for sales and marketing
+2025-04-20 11:33:10,260 - app.tracing - INFO - Extracted Parameters: {'duration_limit': None}
+2025-04-20 11:33:10,260 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:33:10,260 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas) (Score: 0.4738)
+2025-04-20 11:33:10,261 - app.tracing - INFO -   2. Entry level Sales 7.1 (International) (Score: 0.4670)
+2025-04-20 11:33:10,262 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1 (Score: 0.4064)
+2025-04-20 11:33:10,263 - app.tracing - INFO -   4. Accounts Receivable (New) (Score: 0.4047)
+2025-04-20 11:33:10,263 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.4033)
+2025-04-20 11:33:10,264 - app.tracing - INFO -   6. Manager + 7.0 Solution (Score: 0.3852)
+2025-04-20 11:33:10,264 - app.tracing - INFO -   7. Apprentice + 8.0 Job Focused Assessment (Score: 0.3823)
+2025-04-20 11:33:10,265 - app.tracing - INFO -   8. Bank Collections Agent - Short Form (Score: 0.3791)
+2025-04-20 11:33:10,265 - app.tracing - INFO -   9. Financial Professional - Short Form (Score: 0.3766)
+2025-04-20 11:33:10,265 - app.tracing - INFO -   10. Global Skills Development Report (Score: 0.3684)
+2025-04-20 11:33:10,266 - app.tracing - INFO -   11. Accounts Receivable Simulation (New) (Score: 0.3631)
+2025-04-20 11:33:10,266 - app.tracing - INFO -   12. Apprentice 8.0 Job Focused Assessment (Score: 0.3571)
+2025-04-20 11:33:10,266 - app.tracing - INFO -   13. Accounts Payable Simulation (New) (Score: 0.3565)
+2025-04-20 11:33:10,266 - app.tracing - INFO -   14. Entry Level Customer Service 7.1 (Americas) (Score: 0.3317)
+2025-04-20 11:33:10,267 - app.tracing - INFO -   15. Branch Manager - Short Form (Score: 0.3301)
+2025-04-20 11:33:10,267 - app.tracing - INFO -   16. Entry Level Customer Service 7.1 (International) (Score: 0.3281)
+2025-04-20 11:33:10,267 - app.tracing - INFO -   17. Insurance Sales Manager Solution (Score: 0.3234)
+2025-04-20 11:33:10,269 - app.tracing - INFO -   18. Entry Level Customer Service 7.1 (South Africa) (Score: 0.3175)
+2025-04-20 11:33:10,271 - app.tracing - INFO -   19. Account Manager Solution (Score: 0.2983)
+2025-04-20 11:33:10,272 - app.tracing - INFO -   20. Entry Level Cashier 7.1 (Americas) (Score: 0.2928)
+2025-04-20 11:33:10,272 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:33:10,273 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:33:10,273 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 11:33:10,273 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 11:33:10,274 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 11:33:10,275 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:33:10,275 - app.tracing - INFO -   6. Manager + 7.0 Solution
+2025-04-20 11:33:10,276 - app.tracing - INFO -   7. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:33:10,276 - app.tracing - INFO -   8. Bank Collections Agent - Short Form
+2025-04-20 11:33:10,276 - app.tracing - INFO -   9. Financial Professional - Short Form
+2025-04-20 11:33:10,277 - app.tracing - INFO -   10. Global Skills Development Report
+2025-04-20 11:33:10,277 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:33:10,277 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:33:10,278 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 11:33:10,278 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 11:33:10,279 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 11:33:10,279 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:33:10,280 - app.tracing - INFO -   6. Manager + 7.0 Solution
+2025-04-20 11:33:10,280 - app.tracing - INFO -   7. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:33:10,281 - app.tracing - INFO -   8. Bank Collections Agent - Short Form
+2025-04-20 11:33:10,281 - app.tracing - INFO -   9. Financial Professional - Short Form
+2025-04-20 11:33:10,281 - app.tracing - INFO -   10. Global Skills Development Report
+2025-04-20 11:33:10,282 - app.tracing - INFO - ==================================================
+2025-04-20 11:33:20,501 - app.tracing - INFO - Trace ID: 20250420113320
+2025-04-20 11:33:20,502 - app.tracing - INFO - Query: generate me assessments for sales and marketing
+2025-04-20 11:33:20,502 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 40}
+2025-04-20 11:33:20,503 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:33:20,504 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas) (Score: 0.4738)
+2025-04-20 11:33:20,508 - app.tracing - INFO -   2. Entry level Sales 7.1 (International) (Score: 0.4670)
+2025-04-20 11:33:20,509 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1 (Score: 0.4064)
+2025-04-20 11:33:20,509 - app.tracing - INFO -   4. Accounts Receivable (New) (Score: 0.4047)
+2025-04-20 11:33:20,510 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.4033)
+2025-04-20 11:33:20,512 - app.tracing - INFO -   6. Apprentice + 8.0 Job Focused Assessment (Score: 0.3823)
+2025-04-20 11:33:20,512 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.3766)
+2025-04-20 11:33:20,513 - app.tracing - INFO -   8. Global Skills Development Report (Score: 0.3684)
+2025-04-20 11:33:20,515 - app.tracing - INFO -   9. Accounts Receivable Simulation (New) (Score: 0.3631)
+2025-04-20 11:33:20,517 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment (Score: 0.3571)
+2025-04-20 11:33:20,518 - app.tracing - INFO -   11. Accounts Payable Simulation (New) (Score: 0.3565)
+2025-04-20 11:33:20,518 - app.tracing - INFO -   12. Entry Level Customer Service 7.1 (Americas) (Score: 0.3317)
+2025-04-20 11:33:20,518 - app.tracing - INFO -   13. Entry Level Customer Service 7.1 (International) (Score: 0.3281)
+2025-04-20 11:33:20,519 - app.tracing - INFO -   14. Entry Level Customer Service 7.1 (South Africa) (Score: 0.3175)
+2025-04-20 11:33:20,519 - app.tracing - INFO -   15. Entry Level Cashier 7.1 (Americas) (Score: 0.2928)
+2025-04-20 11:33:20,519 - app.tracing - INFO -   16. Entry Level Cashier 7.1 (International) (Score: 0.2921)
+2025-04-20 11:33:20,520 - app.tracing - INFO -   17. .NET MVVM (New) (Score: 0.2708)
+2025-04-20 11:33:20,524 - app.tracing - INFO -   18. ADO.NET (New) (Score: 0.2676)
+2025-04-20 11:33:20,525 - app.tracing - INFO -   19. Cashier Solution (Score: 0.2614)
+2025-04-20 11:33:20,525 - app.tracing - INFO -   20. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2206)
+2025-04-20 11:33:20,526 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:33:20,526 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:33:20,527 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 11:33:20,527 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 11:33:20,527 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 11:33:20,528 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:33:20,529 - app.tracing - INFO -   6. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:33:20,535 - app.tracing - INFO -   7. Financial Professional - Short Form
+2025-04-20 11:33:20,536 - app.tracing - INFO -   8. Global Skills Development Report
+2025-04-20 11:33:20,537 - app.tracing - INFO -   9. Accounts Receivable Simulation (New)
+2025-04-20 11:33:20,538 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:33:20,538 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:33:20,539 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 11:33:20,539 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 11:33:20,540 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 11:33:20,540 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 11:33:20,541 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 11:33:20,541 - app.tracing - INFO -   6. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:33:20,542 - app.tracing - INFO -   7. Financial Professional - Short Form
+2025-04-20 11:33:20,542 - app.tracing - INFO -   8. Global Skills Development Report
+2025-04-20 11:33:20,543 - app.tracing - INFO -   9. Accounts Receivable Simulation (New)
+2025-04-20 11:33:20,543 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:33:20,543 - app.tracing - INFO - ==================================================
+2025-04-20 11:35:17,016 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:35:19,734 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:40:27,130 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:40:28,641 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:40:51,262 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 11:40:53,076 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 11:42:34,866 - app.tracing - INFO - Trace ID: 20250420114234
+2025-04-20 11:42:34,867 - app.tracing - INFO - Query: I am hiring for an analyst and wants applications to screen using Cognitive and personality tests, 
+what options are available within 45 mins. 
+2025-04-20 11:42:34,867 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 45}
+2025-04-20 11:42:34,867 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:42:34,868 - app.tracing - INFO -   1. Financial Professional - Short Form (Score: 0.3852)
+2025-04-20 11:42:34,869 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment (Score: 0.3525)
+2025-04-20 11:42:34,869 - app.tracing - INFO -   3. Bank Collections Agent - Short Form (Score: 0.3437)
+2025-04-20 11:42:34,869 - app.tracing - INFO -   4. Global Skills Development Report (Score: 0.3313)
+2025-04-20 11:42:34,870 - app.tracing - INFO -   5. Bank Operations Supervisor - Short Form (Score: 0.2976)
+2025-04-20 11:42:34,871 - app.tracing - INFO -   6. Administrative Professional - Short Form (Score: 0.2847)
+2025-04-20 11:42:34,871 - app.tracing - INFO -   7. Accounts Receivable (New) (Score: 0.2779)
+2025-04-20 11:42:34,872 - app.tracing - INFO -   8. Bank Administrative Assistant - Short Form (Score: 0.2762)
+2025-04-20 11:42:34,872 - app.tracing - INFO -   9. ADO.NET (New) (Score: 0.2614)
+2025-04-20 11:42:34,873 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment (Score: 0.2572)
+2025-04-20 11:42:34,873 - app.tracing - INFO -   11. Insurance Administrative Assistant Solution (Score: 0.2564)
+2025-04-20 11:42:34,873 - app.tracing - INFO -   12. .NET MVVM (New) (Score: 0.2549)
+2025-04-20 11:42:34,874 - app.tracing - INFO -   13. .NET Framework 4.5 (Score: 0.2521)
+2025-04-20 11:42:34,874 - app.tracing - INFO -   14. Bilingual Spanish Reservation Agent Solution (Score: 0.2505)
+2025-04-20 11:42:34,874 - app.tracing - INFO -   15. Accounts Payable (New) (Score: 0.2458)
+2025-04-20 11:42:34,874 - app.tracing - INFO -   16. .NET MVC (New) (Score: 0.2286)
+2025-04-20 11:42:34,875 - app.tracing - INFO -   17. .NET XAML (New) (Score: 0.2215)
+2025-04-20 11:42:34,875 - app.tracing - INFO -   18. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2158)
+2025-04-20 11:42:34,875 - app.tracing - INFO -   19. Industrial - Semi-skilled 7.1 (International) (Score: 0.2006)
+2025-04-20 11:42:34,875 - app.tracing - INFO -   20. Accounts Receivable Simulation (New) (Score: 0.1988)
+2025-04-20 11:42:34,875 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:42:34,876 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 11:42:34,876 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:42:34,876 - app.tracing - INFO -   3. Bank Collections Agent - Short Form
+2025-04-20 11:42:34,876 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:42:34,876 - app.tracing - INFO -   5. Bank Operations Supervisor - Short Form
+2025-04-20 11:42:34,877 - app.tracing - INFO -   6. Administrative Professional - Short Form
+2025-04-20 11:42:34,878 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 11:42:34,878 - app.tracing - INFO -   8. Bank Administrative Assistant - Short Form
+2025-04-20 11:42:34,879 - app.tracing - INFO -   9. ADO.NET (New)
+2025-04-20 11:42:34,879 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:42:34,880 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:42:34,880 - app.tracing - INFO -   1. Financial Professional - Short Form
+2025-04-20 11:42:34,881 - app.tracing - INFO -   2. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:42:34,881 - app.tracing - INFO -   3. Bank Collections Agent - Short Form
+2025-04-20 11:42:34,881 - app.tracing - INFO -   4. Global Skills Development Report
+2025-04-20 11:42:34,881 - app.tracing - INFO -   5. Bank Operations Supervisor - Short Form
+2025-04-20 11:42:34,882 - app.tracing - INFO -   6. Administrative Professional - Short Form
+2025-04-20 11:42:34,882 - app.tracing - INFO -   7. Accounts Receivable (New)
+2025-04-20 11:42:34,882 - app.tracing - INFO -   8. Bank Administrative Assistant - Short Form
+2025-04-20 11:42:34,882 - app.tracing - INFO -   9. ADO.NET (New)
+2025-04-20 11:42:34,883 - app.tracing - INFO -   10. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:42:34,883 - app.tracing - INFO - ==================================================
+2025-04-20 11:43:09,613 - app.tracing - INFO - Trace ID: 20250420114309
+2025-04-20 11:43:09,615 - app.tracing - INFO - Query: ere is a JD text, can you recommend some assessment that can help me screen applications. Time 
+limit is less than 30 minutes. 
+2025-04-20 11:43:09,619 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 45}
+2025-04-20 11:43:09,623 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:43:09,627 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.3062)
+2025-04-20 11:43:09,631 - app.tracing - INFO -   2. Global Skills Development Report (Score: 0.2935)
+2025-04-20 11:43:09,631 - app.tracing - INFO -   3. Insurance Administrative Assistant Solution (Score: 0.2856)
+2025-04-20 11:43:09,632 - app.tracing - INFO -   4. Bank Administrative Assistant - Short Form (Score: 0.2737)
+2025-04-20 11:43:09,632 - app.tracing - INFO -   5. .NET Framework 4.5 (Score: 0.2733)
+2025-04-20 11:43:09,633 - app.tracing - INFO -   6. Apprentice 8.0 Job Focused Assessment (Score: 0.2697)
+2025-04-20 11:43:09,633 - app.tracing - INFO -   7. Bilingual Spanish Reservation Agent Solution (Score: 0.2578)
+2025-04-20 11:43:09,634 - app.tracing - INFO -   8. Financial Professional - Short Form (Score: 0.2525)
+2025-04-20 11:43:09,634 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (International) (Score: 0.2496)
+2025-04-20 11:43:09,640 - app.tracing - INFO -   10. Administrative Professional - Short Form (Score: 0.2476)
+2025-04-20 11:43:09,640 - app.tracing - INFO -   11. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2473)
+2025-04-20 11:43:09,643 - app.tracing - INFO -   12. Bank Collections Agent - Short Form (Score: 0.2463)
+2025-04-20 11:43:09,644 - app.tracing - INFO -   13. ADO.NET (New) (Score: 0.2432)
+2025-04-20 11:43:09,646 - app.tracing - INFO -   14. Bank Operations Supervisor - Short Form (Score: 0.2395)
+2025-04-20 11:43:09,648 - app.tracing - INFO -   15. Entry Level Sales Sift Out 7.1 (Score: 0.2381)
+2025-04-20 11:43:09,649 - app.tracing - INFO -   16. Entry level Sales 7.1 (International) (Score: 0.2374)
+2025-04-20 11:43:09,649 - app.tracing - INFO -   17. Entry level Sales 7.1 (Americas) (Score: 0.2325)
+2025-04-20 11:43:09,649 - app.tracing - INFO -   18. Entry Level Customer Service 7.1 (Americas) (Score: 0.2314)
+2025-04-20 11:43:09,650 - app.tracing - INFO -   19. Entry Level Customer Service 7.1 (International) (Score: 0.2308)
+2025-04-20 11:43:09,650 - app.tracing - INFO -   20. Entry Level Customer Service 7.1 (South Africa) (Score: 0.2183)
+2025-04-20 11:43:09,650 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:43:09,653 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:43:09,657 - app.tracing - INFO -   2. Global Skills Development Report
+2025-04-20 11:43:09,659 - app.tracing - INFO -   3. Insurance Administrative Assistant Solution
+2025-04-20 11:43:09,664 - app.tracing - INFO -   4. Bank Administrative Assistant - Short Form
+2025-04-20 11:43:09,665 - app.tracing - INFO -   5. .NET Framework 4.5
+2025-04-20 11:43:09,667 - app.tracing - INFO -   6. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:43:09,668 - app.tracing - INFO -   7. Bilingual Spanish Reservation Agent Solution
+2025-04-20 11:43:09,669 - app.tracing - INFO -   8. Financial Professional - Short Form
+2025-04-20 11:43:09,672 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 11:43:09,677 - app.tracing - INFO -   10. Administrative Professional - Short Form
+2025-04-20 11:43:09,678 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:43:09,679 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:43:09,680 - app.tracing - INFO -   2. Global Skills Development Report
+2025-04-20 11:43:09,680 - app.tracing - INFO -   3. Insurance Administrative Assistant Solution
+2025-04-20 11:43:09,681 - app.tracing - INFO -   4. Bank Administrative Assistant - Short Form
+2025-04-20 11:43:09,681 - app.tracing - INFO -   5. .NET Framework 4.5
+2025-04-20 11:43:09,682 - app.tracing - INFO -   6. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:43:09,683 - app.tracing - INFO -   7. Bilingual Spanish Reservation Agent Solution
+2025-04-20 11:43:09,684 - app.tracing - INFO -   8. Financial Professional - Short Form
+2025-04-20 11:43:09,689 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 11:43:09,690 - app.tracing - INFO -   10. Administrative Professional - Short Form
+2025-04-20 11:43:09,691 - app.tracing - INFO - ==================================================
+2025-04-20 11:43:50,416 - app.tracing - INFO - Trace ID: 20250420114350
+2025-04-20 11:43:50,416 - app.tracing - INFO - Query: ooking to hire mid-level professionals who are proficient in Python, SQL and Java Script. Need an 
+assessment package that can test all skills with max duration of 60 minutes. 
+2025-04-20 11:43:50,418 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 70}
+2025-04-20 11:43:50,418 - app.tracing - INFO - Vector Search Results:
+2025-04-20 11:43:50,419 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment (Score: 0.4858)
+2025-04-20 11:43:50,420 - app.tracing - INFO -   2. Industrial Professional and Skilled 7.1 Solution (Score: 0.4591)
+2025-04-20 11:43:50,420 - app.tracing - INFO -   3. Global Skills Development Report (Score: 0.4587)
+2025-04-20 11:43:50,420 - app.tracing - INFO -   4. Industrial Professional and Skilled 7.1 (Americas) (Score: 0.4563)
+2025-04-20 11:43:50,420 - app.tracing - INFO -   5. Apprentice 8.0 Job Focused Assessment (Score: 0.4409)
+2025-04-20 11:43:50,421 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.4223)
+2025-04-20 11:43:50,421 - app.tracing - INFO -   7. Manager + 7.0 Solution (Score: 0.4183)
+2025-04-20 11:43:50,421 - app.tracing - INFO -   8. Accounts Receivable (New) (Score: 0.4171)
+2025-04-20 11:43:50,421 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (International) (Score: 0.4078)
+2025-04-20 11:43:50,422 - app.tracing - INFO -   10. Financial Professional - Short Form (Score: 0.4055)
+2025-04-20 11:43:50,422 - app.tracing - INFO -   11. Accounts Payable (New) (Score: 0.4020)
+2025-04-20 11:43:50,422 - app.tracing - INFO -   12. ADO.NET (New) (Score: 0.3519)
+2025-04-20 11:43:50,423 - app.tracing - INFO -   13. .NET MVVM (New) (Score: 0.3238)
+2025-04-20 11:43:50,423 - app.tracing - INFO -   14. .NET Framework 4.5 (Score: 0.3187)
+2025-04-20 11:43:50,423 - app.tracing - INFO -   15. Bank Collections Agent - Short Form (Score: 0.3107)
+2025-04-20 11:43:50,423 - app.tracing - INFO -   16. .NET WCF (New) (Score: 0.3016)
+2025-04-20 11:43:50,424 - app.tracing - INFO -   17. .NET MVC (New) (Score: 0.3010)
+2025-04-20 11:43:50,424 - app.tracing - INFO -   18. Administrative Professional - Short Form (Score: 0.2967)
+2025-04-20 11:43:50,424 - app.tracing - INFO -   19. .NET XAML (New) (Score: 0.2953)
+2025-04-20 11:43:50,424 - app.tracing - INFO -   20. Accounts Payable Simulation (New) (Score: 0.2922)
+2025-04-20 11:43:50,425 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 11:43:50,425 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:43:50,426 - app.tracing - INFO -   2. Industrial Professional and Skilled 7.1 Solution
+2025-04-20 11:43:50,428 - app.tracing - INFO -   3. Global Skills Development Report
+2025-04-20 11:43:50,429 - app.tracing - INFO -   4. Industrial Professional and Skilled 7.1 (Americas)
+2025-04-20 11:43:50,430 - app.tracing - INFO -   5. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:43:50,431 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 11:43:50,431 - app.tracing - INFO -   7. Manager + 7.0 Solution
+2025-04-20 11:43:50,432 - app.tracing - INFO -   8. Accounts Receivable (New)
+2025-04-20 11:43:50,432 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 11:43:50,432 - app.tracing - INFO -   10. Financial Professional - Short Form
+2025-04-20 11:43:50,433 - app.tracing - INFO - Final Recommendations:
+2025-04-20 11:43:50,433 - app.tracing - INFO -   1. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 11:43:50,433 - app.tracing - INFO -   2. Industrial Professional and Skilled 7.1 Solution
+2025-04-20 11:43:50,434 - app.tracing - INFO -   3. Global Skills Development Report
+2025-04-20 11:43:50,435 - app.tracing - INFO -   4. Industrial Professional and Skilled 7.1 (Americas)
+2025-04-20 11:43:50,440 - app.tracing - INFO -   5. Apprentice 8.0 Job Focused Assessment
+2025-04-20 11:43:50,441 - app.tracing - INFO -   6. Industrial - Semi-skilled 7.1 (Americas)
+2025-04-20 11:43:50,441 - app.tracing - INFO -   7. Manager + 7.0 Solution
+2025-04-20 11:43:50,442 - app.tracing - INFO -   8. Accounts Receivable (New)
+2025-04-20 11:43:50,442 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (International)
+2025-04-20 11:43:50,442 - app.tracing - INFO -   10. Financial Professional - Short Form
+2025-04-20 11:43:50,443 - app.tracing - INFO - ==================================================
