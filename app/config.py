@@ -1,10 +1,9 @@
 import os
 from dotenv import load_dotenv
 
-# Load environment variables
 load_dotenv()
 
-# API keys and configuration
+
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Model configuration

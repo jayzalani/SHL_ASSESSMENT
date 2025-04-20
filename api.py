@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
 from app.models import QueryModel, RecommendationResponse, HealthResponse, AssessmentRecommendation
 from app.data_processing import load_and_preprocess_data, create_embeddings
 from app.search import search_assessments
@@ -24,11 +24,11 @@ def recommend_assessments(request: QueryModel):
     """Recommend assessments based on query"""
     query = request.query
     
-    # Extract parameters from the query
+    
     params = extract_parameters(query, gemini_model)
     
     # Search for relevant assessments
-    results, trace_id = search_assessments(
+    results = search_assessments(
         query=query,
         df=df,
         embedding_model=embedding_model,
@@ -38,7 +38,7 @@ def recommend_assessments(request: QueryModel):
         duration_limit=params.get("duration_limit")
     )
     
-    # Format the response
+ 
     recommendations = []
     for _, row in results.iterrows():
         recommendation = AssessmentRecommendation(

@@ -71,7 +71,7 @@ def create_streamlit_app():
     
     with col1:
         query = st.text_area("Job Description or Query", height=150, 
-                            placeholder="E.g., We need assessments for a senior software developer position requiring problem-solving skills and coding ability...")
+                            placeholder="E.g., We need assessments for a senior software developer position requiring problem-solving skills and coding ability..., Please Select the Duration form ->")
     
     with col2:
         st.write("**Filter Options**")
@@ -79,9 +79,8 @@ def create_streamlit_app():
                                         min_value=0, max_value=120, value=0, step=5,
                                         help="Set to 0 for no limit")
         
-        # Additional filter options could be added here
     
-    # Center the button
+  
     _, btn_col, _ = st.columns([1, 1, 1])
     with btn_col:
         search_btn = st.button("🔍 Get Recommendations", use_container_width=True)

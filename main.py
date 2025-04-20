@@ -11,9 +11,4 @@ if __name__ == "__main__":
     if args.mode == "api":
         # Run FastAPI
         uvicorn.run("api:app", host=API_HOST, port=API_PORT, reload=True)
-    # else:
-    #     # Run Streamlit
-    #     import streamlit.web.bootstrap
-    #     from streamlit import runtime
-    #     runtime.set_current_script_path('./streamlit_app.py')
-    #     streamlit.web.bootstrap.run('./streamlit_app.py', '', [], [])
+    

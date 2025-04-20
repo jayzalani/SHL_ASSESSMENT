@@ -1658,3 +1658,169 @@ assessment package that can test all skills with max duration of 60 minutes.
 2025-04-20 11:43:50,442 - app.tracing - INFO -   9. Industrial - Semi-skilled 7.1 (International)
 2025-04-20 11:43:50,442 - app.tracing - INFO -   10. Financial Professional - Short Form
 2025-04-20 11:43:50,443 - app.tracing - INFO - ==================================================
+2025-04-20 14:39:37,679 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:39:37,680 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:39:47,549 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:40:07,221 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:40:08,990 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:40:17,027 - app.tracing - INFO - Trace ID: 20250420144017
+2025-04-20 14:40:17,030 - app.tracing - INFO - Query: generate me the assessments for sales
+2025-04-20 14:40:17,031 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 40}
+2025-04-20 14:40:17,031 - app.tracing - INFO - Vector Search Results:
+2025-04-20 14:40:17,033 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas) (Score: 0.5143)
+2025-04-20 14:40:17,034 - app.tracing - INFO -   2. Entry level Sales 7.1 (International) (Score: 0.5006)
+2025-04-20 14:40:17,034 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1 (Score: 0.4448)
+2025-04-20 14:40:17,035 - app.tracing - INFO -   4. Accounts Payable (New) (Score: 0.4311)
+2025-04-20 14:40:17,035 - app.tracing - INFO -   5. Accounts Receivable (New) (Score: 0.4251)
+2025-04-20 14:40:17,035 - app.tracing - INFO -   6. Accounts Receivable Simulation (New) (Score: 0.3946)
+2025-04-20 14:40:17,036 - app.tracing - INFO -   7. Accounts Payable Simulation (New) (Score: 0.3908)
+2025-04-20 14:40:17,036 - app.tracing - INFO -   8. Apprentice + 8.0 Job Focused Assessment (Score: 0.3663)
+2025-04-20 14:40:17,036 - app.tracing - INFO -   9. Apprentice 8.0 Job Focused Assessment (Score: 0.3555)
+2025-04-20 14:40:17,036 - app.tracing - INFO -   10. Global Skills Development Report (Score: 0.3430)
+2025-04-20 14:40:17,037 - app.tracing - INFO -   11. Financial Professional - Short Form (Score: 0.3326)
+2025-04-20 14:40:17,037 - app.tracing - INFO -   12. Entry Level Cashier 7.1 (Americas) (Score: 0.3324)
+2025-04-20 14:40:17,037 - app.tracing - INFO -   13. Entry Level Customer Service 7.1 (Americas) (Score: 0.3242)
+2025-04-20 14:40:17,037 - app.tracing - INFO -   14. Entry Level Cashier 7.1 (International) (Score: 0.3220)
+2025-04-20 14:40:17,038 - app.tracing - INFO -   15. Entry Level Customer Service 7.1 (South Africa) (Score: 0.3175)
+2025-04-20 14:40:17,038 - app.tracing - INFO -   16. Entry Level Customer Service 7.1 (International) (Score: 0.3120)
+2025-04-20 14:40:17,038 - app.tracing - INFO -   17. Cashier Solution (Score: 0.3073)
+2025-04-20 14:40:17,038 - app.tracing - INFO -   18. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2687)
+2025-04-20 14:40:17,039 - app.tracing - INFO -   19. Industrial - Semi-skilled 7.1 (International) (Score: 0.2600)
+2025-04-20 14:40:17,039 - app.tracing - INFO -   20. ADO.NET (New) (Score: 0.2384)
+2025-04-20 14:40:17,039 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 14:40:17,040 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 14:40:17,040 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 14:40:17,040 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 14:40:17,041 - app.tracing - INFO -   4. Accounts Payable (New)
+2025-04-20 14:40:17,041 - app.tracing - INFO -   5. Accounts Receivable (New)
+2025-04-20 14:40:17,042 - app.tracing - INFO -   6. Accounts Receivable Simulation (New)
+2025-04-20 14:40:17,042 - app.tracing - INFO -   7. Accounts Payable Simulation (New)
+2025-04-20 14:40:17,042 - app.tracing - INFO -   8. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 14:40:17,042 - app.tracing - INFO -   9. Apprentice 8.0 Job Focused Assessment
+2025-04-20 14:40:17,042 - app.tracing - INFO -   10. Global Skills Development Report
+2025-04-20 14:40:17,043 - app.tracing - INFO - Final Recommendations:
+2025-04-20 14:40:17,043 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 14:40:17,043 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 14:40:17,043 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 14:40:17,043 - app.tracing - INFO -   4. Accounts Payable (New)
+2025-04-20 14:40:17,044 - app.tracing - INFO -   5. Accounts Receivable (New)
+2025-04-20 14:40:17,044 - app.tracing - INFO -   6. Accounts Receivable Simulation (New)
+2025-04-20 14:40:17,044 - app.tracing - INFO -   7. Accounts Payable Simulation (New)
+2025-04-20 14:40:17,045 - app.tracing - INFO -   8. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 14:40:17,046 - app.tracing - INFO -   9. Apprentice 8.0 Job Focused Assessment
+2025-04-20 14:40:17,046 - app.tracing - INFO -   10. Global Skills Development Report
+2025-04-20 14:40:17,047 - app.tracing - INFO - ==================================================
+2025-04-20 14:40:40,143 - app.tracing - INFO - Trace ID: 20250420144040
+2025-04-20 14:40:40,144 - app.tracing - INFO - Query: generate me the assessments for sales give me only 7 assessments
+2025-04-20 14:40:40,145 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 40}
+2025-04-20 14:40:40,145 - app.tracing - INFO - Vector Search Results:
+2025-04-20 14:40:40,147 - app.tracing - INFO -   1. Accounts Receivable (New) (Score: 0.4800)
+2025-04-20 14:40:40,149 - app.tracing - INFO -   2. Accounts Payable (New) (Score: 0.4588)
+2025-04-20 14:40:40,149 - app.tracing - INFO -   3. Entry level Sales 7.1 (Americas) (Score: 0.4292)
+2025-04-20 14:40:40,150 - app.tracing - INFO -   4. Entry level Sales 7.1 (International) (Score: 0.4279)
+2025-04-20 14:40:40,152 - app.tracing - INFO -   5. Apprentice + 8.0 Job Focused Assessment (Score: 0.4251)
+2025-04-20 14:40:40,153 - app.tracing - INFO -   6. Apprentice 8.0 Job Focused Assessment (Score: 0.4066)
+2025-04-20 14:40:40,155 - app.tracing - INFO -   7. Financial Professional - Short Form (Score: 0.3868)
+2025-04-20 14:40:40,155 - app.tracing - INFO -   8. Entry Level Sales Sift Out 7.1 (Score: 0.3757)
+2025-04-20 14:40:40,155 - app.tracing - INFO -   9. Global Skills Development Report (Score: 0.3601)
+2025-04-20 14:40:40,156 - app.tracing - INFO -   10. Accounts Receivable Simulation (New) (Score: 0.3577)
+2025-04-20 14:40:40,157 - app.tracing - INFO -   11. Accounts Payable Simulation (New) (Score: 0.3504)
+2025-04-20 14:40:40,159 - app.tracing - INFO -   12. Entry Level Customer Service 7.1 (Americas) (Score: 0.3357)
+2025-04-20 14:40:40,159 - app.tracing - INFO -   13. Entry Level Customer Service 7.1 (South Africa) (Score: 0.3262)
+2025-04-20 14:40:40,159 - app.tracing - INFO -   14. Entry Level Customer Service 7.1 (International) (Score: 0.3255)
+2025-04-20 14:40:40,160 - app.tracing - INFO -   15. Entry Level Cashier 7.1 (Americas) (Score: 0.3227)
+2025-04-20 14:40:40,160 - app.tracing - INFO -   16. Entry Level Cashier 7.1 (International) (Score: 0.3136)
+2025-04-20 14:40:40,160 - app.tracing - INFO -   17. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.3008)
+2025-04-20 14:40:40,161 - app.tracing - INFO -   18. Industrial - Semi-skilled 7.1 (International) (Score: 0.2961)
+2025-04-20 14:40:40,162 - app.tracing - INFO -   19. ADO.NET (New) (Score: 0.2849)
+2025-04-20 14:40:40,163 - app.tracing - INFO -   20. .NET MVVM (New) (Score: 0.2638)
+2025-04-20 14:40:40,164 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 14:40:40,165 - app.tracing - INFO -   1. Accounts Receivable (New)
+2025-04-20 14:40:40,171 - app.tracing - INFO -   2. Accounts Payable (New)
+2025-04-20 14:40:40,172 - app.tracing - INFO -   3. Entry level Sales 7.1 (Americas)
+2025-04-20 14:40:40,173 - app.tracing - INFO -   4. Entry level Sales 7.1 (International)
+2025-04-20 14:40:40,173 - app.tracing - INFO -   5. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 14:40:40,173 - app.tracing - INFO -   6. Apprentice 8.0 Job Focused Assessment
+2025-04-20 14:40:40,174 - app.tracing - INFO -   7. Financial Professional - Short Form
+2025-04-20 14:40:40,174 - app.tracing - INFO -   8. Entry Level Sales Sift Out 7.1
+2025-04-20 14:40:40,174 - app.tracing - INFO -   9. Global Skills Development Report
+2025-04-20 14:40:40,174 - app.tracing - INFO -   10. Accounts Receivable Simulation (New)
+2025-04-20 14:40:40,174 - app.tracing - INFO - Final Recommendations:
+2025-04-20 14:40:40,175 - app.tracing - INFO -   1. Accounts Receivable (New)
+2025-04-20 14:40:40,175 - app.tracing - INFO -   2. Accounts Payable (New)
+2025-04-20 14:40:40,175 - app.tracing - INFO -   3. Entry level Sales 7.1 (Americas)
+2025-04-20 14:40:40,175 - app.tracing - INFO -   4. Entry level Sales 7.1 (International)
+2025-04-20 14:40:40,175 - app.tracing - INFO -   5. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 14:40:40,176 - app.tracing - INFO -   6. Apprentice 8.0 Job Focused Assessment
+2025-04-20 14:40:40,176 - app.tracing - INFO -   7. Financial Professional - Short Form
+2025-04-20 14:40:40,176 - app.tracing - INFO -   8. Entry Level Sales Sift Out 7.1
+2025-04-20 14:40:40,176 - app.tracing - INFO -   9. Global Skills Development Report
+2025-04-20 14:40:40,177 - app.tracing - INFO -   10. Accounts Receivable Simulation (New)
+2025-04-20 14:40:40,178 - app.tracing - INFO - ==================================================
+2025-04-20 14:41:48,806 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:41:50,212 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:41:58,865 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:41:59,817 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:43:37,390 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:43:38,583 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:44:26,860 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:44:27,386 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:46:12,824 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:46:13,399 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:46:38,559 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:46:40,177 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:46:52,346 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:46:53,493 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:48:10,208 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:48:11,521 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:48:53,625 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:48:54,648 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:49:06,578 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 14:49:13,750 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-04-20 14:50:00,818 - app.tracing - INFO - Trace ID: 20250420145000
+2025-04-20 14:50:00,818 - app.tracing - INFO - Query: assessments for sales
+2025-04-20 14:50:00,819 - app.tracing - INFO - Extracted Parameters: {'duration_limit': 30}
+2025-04-20 14:50:00,819 - app.tracing - INFO - Vector Search Results:
+2025-04-20 14:50:00,819 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas) (Score: 0.5605)
+2025-04-20 14:50:00,820 - app.tracing - INFO -   2. Entry level Sales 7.1 (International) (Score: 0.5408)
+2025-04-20 14:50:00,821 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1 (Score: 0.4820)
+2025-04-20 14:50:00,821 - app.tracing - INFO -   4. Accounts Receivable (New) (Score: 0.4777)
+2025-04-20 14:50:00,823 - app.tracing - INFO -   5. Accounts Payable (New) (Score: 0.4569)
+2025-04-20 14:50:00,823 - app.tracing - INFO -   6. Apprentice + 8.0 Job Focused Assessment (Score: 0.4233)
+2025-04-20 14:50:00,824 - app.tracing - INFO -   7. Accounts Receivable Simulation (New) (Score: 0.4074)
+2025-04-20 14:50:00,824 - app.tracing - INFO -   8. Apprentice 8.0 Job Focused Assessment (Score: 0.4065)
+2025-04-20 14:50:00,825 - app.tracing - INFO -   9. Entry Level Cashier 7.1 (Americas) (Score: 0.3941)
+2025-04-20 14:50:00,825 - app.tracing - INFO -   10. Accounts Payable Simulation (New) (Score: 0.3930)
+2025-04-20 14:50:00,825 - app.tracing - INFO -   11. Entry Level Cashier 7.1 (International) (Score: 0.3754)
+2025-04-20 14:50:00,825 - app.tracing - INFO -   12. Cashier Solution (Score: 0.3662)
+2025-04-20 14:50:00,825 - app.tracing - INFO -   13. Entry Level Customer Service 7.1 (Americas) (Score: 0.3173)
+2025-04-20 14:50:00,827 - app.tracing - INFO -   14. Entry Level Customer Service 7.1 (International) (Score: 0.3026)
+2025-04-20 14:50:00,828 - app.tracing - INFO -   15. Entry Level Customer Service 7.1 (South Africa) (Score: 0.3019)
+2025-04-20 14:50:00,828 - app.tracing - INFO -   16. Global Skills Development Report (Score: 0.2970)
+2025-04-20 14:50:00,828 - app.tracing - INFO -   17. ADO.NET (New) (Score: 0.2618)
+2025-04-20 14:50:00,829 - app.tracing - INFO -   18. Industrial - Semi-skilled 7.1 (Americas) (Score: 0.2567)
+2025-04-20 14:50:00,829 - app.tracing - INFO -   19. Industrial - Semi-skilled 7.1 (International) (Score: 0.2397)
+2025-04-20 14:50:00,830 - app.tracing - INFO -   20. .NET MVVM (New) (Score: 0.2322)
+2025-04-20 14:50:00,830 - app.tracing - INFO - Gemini Reranking Results:
+2025-04-20 14:50:00,831 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 14:50:00,831 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 14:50:00,831 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 14:50:00,831 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 14:50:00,832 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 14:50:00,832 - app.tracing - INFO -   6. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 14:50:00,832 - app.tracing - INFO -   7. Accounts Receivable Simulation (New)
+2025-04-20 14:50:00,833 - app.tracing - INFO -   8. Apprentice 8.0 Job Focused Assessment
+2025-04-20 14:50:00,833 - app.tracing - INFO -   9. Entry Level Cashier 7.1 (Americas)
+2025-04-20 14:50:00,833 - app.tracing - INFO -   10. Accounts Payable Simulation (New)
+2025-04-20 14:50:00,834 - app.tracing - INFO - Final Recommendations:
+2025-04-20 14:50:00,834 - app.tracing - INFO -   1. Entry level Sales 7.1 (Americas)
+2025-04-20 14:50:00,834 - app.tracing - INFO -   2. Entry level Sales 7.1 (International)
+2025-04-20 14:50:00,835 - app.tracing - INFO -   3. Entry Level Sales Sift Out 7.1
+2025-04-20 14:50:00,835 - app.tracing - INFO -   4. Accounts Receivable (New)
+2025-04-20 14:50:00,836 - app.tracing - INFO -   5. Accounts Payable (New)
+2025-04-20 14:50:00,836 - app.tracing - INFO -   6. Apprentice + 8.0 Job Focused Assessment
+2025-04-20 14:50:00,836 - app.tracing - INFO -   7. Accounts Receivable Simulation (New)
+2025-04-20 14:50:00,837 - app.tracing - INFO -   8. Apprentice 8.0 Job Focused Assessment
+2025-04-20 14:50:00,837 - app.tracing - INFO -   9. Entry Level Cashier 7.1 (Americas)
+2025-04-20 14:50:00,838 - app.tracing - INFO -   10. Accounts Payable Simulation (New)
+2025-04-20 14:50:00,839 - app.tracing - INFO - ==================================================

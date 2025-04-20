@@ -5,11 +5,9 @@ from .config import GEMINI_API_KEY, GEMINI_MODEL
 
 def setup_gemini():
     """Configure and set up the Google Gemini model"""
-    # Set API key
     genai.configure(api_key=GEMINI_API_KEY)
     
-    # For older API versions, just return the genai module
-    return genai
+    
 
 def extract_parameters(query: str, genai_client):
     """Extract relevant parameters from the query using Gemini"""
@@ -29,7 +27,7 @@ def extract_parameters(query: str, genai_client):
     }}"""
     
     try:
-        # Generate content using the older API version
+       
         model = genai_client.models.get_model(GEMINI_MODEL)
         response = model.generate_content(prompt)
         
@@ -47,7 +45,7 @@ def rerank_with_gemini(query: str, candidates: pd.DataFrame, genai_client):
     assessment_info = candidates[['title', 'description', 'duration', 'test_type']].to_dict('records')
     
     # Create prompt for Gemini
-    prompt = f"""Given the job description or query: "{query}", 
+    prompt = f"""Given the job description or query you have to check for duration of assessments mentioned and there no of assessments asked: "{query}", 
     rank the following assessments based on relevance:
     
     {json.dumps(assessment_info, indent=2)}
@@ -57,7 +55,7 @@ def rerank_with_gemini(query: str, candidates: pd.DataFrame, genai_client):
     relevant to the query. Format: [0, 3, 1, ...]"""
     
     try:
-        # Generate content using the older API version
+    
         model = genai_client.models.get_model(GEMINI_MODEL)
         response = model.generate_content(prompt)
         
@@ -72,5 +70,5 @@ def rerank_with_gemini(query: str, candidates: pd.DataFrame, genai_client):
         return candidates.iloc[ranked_indices[:min(10, len(ranked_indices))]]
     except Exception as e:
         print(f"Error in rerank_with_gemini: {e}")
-        # If Gemini fails, return the original ranking
+        
         return candidates.iloc[:min(10, len(candidates))]
