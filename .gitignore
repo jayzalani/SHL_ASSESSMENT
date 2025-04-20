@@ -1,6 +1,17 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
 
-__pycache__
-*.pyc
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
 .env
-.venv
-logs
+
+# Logs
+logs/
+*.log
+
+
